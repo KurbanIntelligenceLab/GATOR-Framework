@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+gotennet
+results*/
+model_works
+analysis_scripts
+figs/
 # C extensions
 *.so
 
