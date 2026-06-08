@@ -1,8 +1,0 @@
-System,E_NP_H2_eV,E_NP_eV,E_H2_eV,E_ads_eV,E_ads_kJ_mol,Regime,DOE_window
-Pristine,-18951.3928,-18931.4702,-19.4268,-0.4958,-47.8373,moderate physisorption,Outside
-Be-TiO2,-18955.9539,-18934.9621,-19.4268,-1.5650,-150.999,very strong / likely dissociative,Outside
-Mg-TiO2,-18953.0122,-18933.0344,-19.4268,-0.5510,-53.1632,strong physisorption / activated,Outside
-Ca-TiO2,-18951.6120,-18931.9800,-19.4268,-0.2052,-19.7987,moderate physisorption,Inside (15--25)
-Sr-TiO2,-18951.7491,-18932.1190,-19.4268,-0.2033,-19.6154,moderate physisorption,Inside (15--25)
-Ba-TiO2,-18951.6054,-18931.9978,-19.4268,-0.1808,-17.4445,weak physisorption,Inside (15--25)
-Ra-TiO2,-18952.0376,-18931.9221,-19.4268,-0.6887,-66.4492,strong physisorption / activated,Outside

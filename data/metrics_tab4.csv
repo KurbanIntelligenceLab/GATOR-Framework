@@ -1,8 +1,0 @@
-System,Delta_H_plus6_kJ_mol,DOE_plus6,Delta_H_plus25_96_kJ_mol,DOE_plus25_96,T50_at_1bar_K,T50_at_30bar_K,Delta_G_std_kJ_mol
-Pristine,-41.84,Outside--strong,-21.88,Inside (15--25),320.0,408.0,-2.9
-Be-TiO2,-145.0,Outside--strong,-125.04,Outside--strong,1109.0,1416.0,-106.1
-Mg-TiO2,-47.16,Outside--strong,-27.20,Outside--strong,361.0,460.0,-8.2
-Ca-TiO2,-13.80,Outside--weak,6.16,Endothermic,106.0,135.0,25.1
-Sr-TiO2,-13.62,Outside--weak,6.34,Endothermic,104.0,133.0,25.3
-Ba-TiO2,-11.44,Outside--weak,8.52,Endothermic,88.0,112.0,27.5
-Ra-TiO2,-60.45,Outside--strong,-40.49,Outside--strong,463.0,590.0,-21.5

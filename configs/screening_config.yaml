@@ -1,0 +1,108 @@
+# GATOR Screening Configuration
+# Gate-Augmented Thermodynamic Ordering and Retrieval
+#
+# All thresholds, labels, and mappings are configurable.
+# Physics labels match the vocabulary from labels.csv.
+# Screening verdicts (pass/flag/fail) are a separate configurable overlay.
+
+gates:
+  - name: adsorption_mode
+    description: "H-H bond activation classification"
+    column: r_H-H_A
+    type: range_multi
+    thresholds: [0.80, 0.95]           # Å — from adsorption_metrics.py constants
+    physics_labels:
+      - molecular                       # r_H-H < 0.80 Å
+      - activated                       # 0.80 ≤ r_H-H ≤ 0.95 Å
+      - dissociative                    # r_H-H > 0.95 Å
+    screening_map:
+      molecular: pass
+      activated: flag
+      dissociative: fail
+
+  - name: regime
+    description: "Adsorption strength regime from |E_ads|"
+    column: E_ads_kJ_mol
+    type: range_multi
+    use_magnitude: true                 # apply abs() before comparison
+    thresholds: [18, 50, 100]           # kJ/mol — from classify_regime() in adsorption_energies.py
+    physics_labels:
+      - "weak physisorption"            # |E_ads| < 18
+      - "moderate physisorption"        # 18 ≤ |E_ads| < 50
+      - "strong physisorption / activated"  # 50 ≤ |E_ads| < 100
+      - "very strong / likely dissociative" # |E_ads| ≥ 100
+    screening_map:
+      "weak physisorption": fail
+      "moderate physisorption": pass
+      "strong physisorption / activated": flag
+      "very strong / likely dissociative": fail
+
+  - name: doe_raw
+    description: "Broad raw-electronic E_ads screening window (|E_ads| = 0.2--0.6 eV); distinct from the DOE/HyMARC enthalpy window"
+    column: E_ads_kJ_mol
+    type: doe_window
+    use_magnitude: true
+    doe_bounds: [19.3, 57.9]            # kJ/mol — 0.2--0.6 eV × 96.485 (ELECTRONIC_WINDOW_MIN/MAX)
+    physics_labels:
+      inside: "Inside (19.3--57.9)"
+      outside: "Outside"
+    screening_map:
+      "Inside (19.3--57.9)": pass
+      "Outside": flag
+
+  - name: doe_corrected
+    description: "DOE/HyMARC finite-temperature-corrected adsorption-enthalpy window on ΔH_corr (+6 kJ/mol; deciding correction)"
+    column: Delta_H_plus6_kJ_mol
+    type: entropy_corrected_doe
+    doe_bounds: [15, 25]                # kJ/mol magnitude
+    # Logic: value > 0 → Endothermic; |value| < 15 → Outside--weak;
+    #        |value| in [15,25] → Inside; |value| > 25 → Outside--strong
+    physics_labels:
+      inside: "Inside (15--25)"
+      weak: "Outside--weak"
+      strong: "Outside--strong"
+      endothermic: "Endothermic"
+    screening_map:
+      "Inside (15--25)": pass
+      "Outside--weak": fail
+      "Outside--strong": flag
+      "Endothermic": fail
+
+  - name: deliverability
+    description: "Desorption midpoint temperature window for near-ambient operation"
+    column: T50_at_1bar_K
+    type: range_multi
+    thresholds: [250, 400]              # K — near-ambient desorption-midpoint window
+    physics_labels:
+      - "Non-deliverable—under-load"    # T₅₀ < 250 K
+      - "Deliverable @ ~298 K"          # 250 ≤ T₅₀ ≤ 400 K
+      - "Non-deliverable—heating-needed" # T₅₀ > 400 K
+    screening_map:
+      "Non-deliverable—under-load": fail
+      "Deliverable @ ~298 K": pass
+      "Non-deliverable—heating-needed": fail
+
+  - name: spontaneity
+    description: "Standard free energy sign check at 298 K"
+    column: Delta_G_std_kJ_mol
+    type: threshold
+    operator: "<"
+    value: 0
+    physics_labels:
+      "true": spontaneous
+      "false": non-spontaneous
+    screening_map:
+      spontaneous: pass
+      non-spontaneous: fail
+
+# Aggregation rule for combining gate verdicts into an overall classification
+aggregation:
+  pass: "all gates pass"
+  borderline: "any gate flags, none fail"
+  fail: "any gate fails"
+
+# RAG settings
+rag:
+  top_k: 5
+  embedding_model: "all-MiniLM-L6-v2"
+  literature_dir: "literature"

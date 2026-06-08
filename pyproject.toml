@@ -1,0 +1,106 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gator"
+version = "0.1.0"
+description = "GATOR: Gate-Augmented Thermodynamic Ordering and Retrieval — physics-gated LLM screening for hydrogen storage materials"
+requires-python = "==3.12.*"
+license = {text = "Apache-2.0"}
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "pyyaml>=6.0",
+    "tqdm>=4.66",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+rag = [
+    "sentence-transformers>=2.2",
+    "chromadb>=0.4",
+    "pymupdf>=1.23",
+    "requests>=2.31",
+]
+transformers = [
+    "transformers>=4.38",
+    "accelerate>=0.27",
+    "sentencepiece>=0.1.99",
+    "torch>=2.0",
+]
+plotting = [
+    "matplotlib>=3.7",
+]
+all = [
+    "gator[rag,transformers,plotting]",
+]
+
+[project.scripts]
+gator = "gator.cli:main"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.8",
+    "mypy>=1.13",
+    "pytest>=8.0",
+    "pytest-cov>=4.0",
+    "hypothesis>=6.0",
+    "pre-commit>=3.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "ANN", "RUF", "SIM", "PTH", "RET"]
+# Scientific typography is intentional, not a homoglyph mistake.
+allowed-confusables = ["×", "–", "−"]
+
+[tool.ruff.lint.isort]
+required-imports = ["from __future__ import annotations"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["ANN"]
+
+[tool.ruff.format]
+docstring-code-format = true
+quote-style = "double"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unreachable = true
+warn_redundant_casts = true
+files = ["src"]
+
+[[tool.mypy.overrides]]
+module = [
+    "chromadb.*",
+    "sentence_transformers.*",
+    "transformers.*",
+    "torch.*",
+    "accelerate.*",
+    "sentencepiece.*",
+    "fitz",
+    "matplotlib.*",
+    "yaml",
+    "tqdm.*",
+    "requests.*",
+]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra --strict-markers --cov=src/gator"
+markers = [
+    "integration: integration tests",
+    "smoke: end-to-end smoke tests",
+    "gpu: requires GPU",
+    "slow: slow tests",
+]

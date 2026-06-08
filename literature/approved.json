@@ -1,0 +1,1775 @@
+[
+  {
+    "title": "Synthesis of a binary alloy nanoparticle catalyst with an immiscible combination of Rh and Cu assisted by hydrogen spillover on a TiO2 support",
+    "authors": [
+      "S. Masuda",
+      "Kazuki Shun",
+      "K. Mori",
+      "Yasutaka Kuwahara",
+      "H. Yamashita"
+    ],
+    "year": 2020,
+    "abstract": "This work demonstrated the use of TiO2 as a promising platform for the synthesis of non-equilibrium RhCu binary alloy nanoparticles (NPs). These metals are regarded as immiscible based on their phase diagram but form NPs with the aid of the significant hydrogen spillover on TiO2 with concurrent proton\u2013electron transfer. The resulting RhCu/TiO2 exhibited 2.6 times higher catalytic activity than Rh/TiO2 during hydrogen production from the hydrolysis of ammonia borane (AB), due to a synergistic effect. Theoretical simulations showed a higher energy value for the adsorption of AB on the RhCu alloy and a lower activation energy for the rate determining N\u2013B bond dissociation by the attack of H2O during AB hydrolysis compared to monometallic Rh. High-angle annular dark-field scanning transmission electron microscopy and energy-dispersive X-ray spectroscopy confirmed the formation of RhCu alloy NPs with a mean diameter of 2.0 nm on the TiO2. H2-temperature programmed reduction and in situ X-ray absorption fine structure analyses at elevated temperature under H2 demonstrated that Rh3+ and Cu2+ precursors were simultaneously reduced only on the TiO2 support. This effect resulted from the improved and limited reducibility of Cu2+ and Rh3+, respectively. The rate of hydrogen spillover of TiO2 is faster as compared to \u03b3-Al2O3 and MgO as evidenced by sequential H2/D2 exchanges during in situ Fourier transform infrared analyses. Density functional theory calculations also showed that the migration of H atoms on TiO2 proceeds with a lower energy barrier than that on Al2O3, and the reduction of Cu2+ species is facilitated by H spillover on the support rather than by direct reduction by H2. These results confirm the vital role of TiO2 in the formation of the alloy and may represent a new strategy for the synthesis of different non-equilibrium solid solution alloys.",
+    "doi": "10.1039/c9sc05612b",
+    "url": "https://www.semanticscholar.org/paper/a9a24b8a7a4ab695fb1559209cb911d279d91706",
+    "source": "semantic_scholar",
+    "external_id": "a9a24b8a7a4ab695fb1559209cb911d279d91706"
+  },
+  {
+    "title": "Upside-Down Adsorption: The Counterintuitive Influences of Surface Entropy and Surface Hydroxyl Density on Hydrogen Spillover.",
+    "authors": [
+      "Kelle D Hart",
+      "Margaret J. Hollobaugh",
+      "Audrey M Battiste",
+      "T. Y. Yun",
+      "A. Abraham",
+      "Mohammad Hamidizirasefi",
+      "Ian M Loscher",
+      "Bert D. Chandler"
+    ],
+    "year": 2024,
+    "abstract": "Although hydrogen spillover is often invoked to explain anomalies in catalysis, spillover remains a poorly understood phenomenon. Hydrogen spillover (H*) is best described as highly mobile H atom equivalents that arise when H2 migrates from a metal nanoparticle to an oxide or carbon support. In the 60 years since its discovery, few methods have become available to quantify or characterize H*-support interactions. We recently showed in situ infrared spectroscopy and volumetric chemisorption can quantify reversible H2 adsorption on Au/TiO2 catalysts, where adsorbed hydrogen exists as H* and interacts with titania surface hydroxyl (TiOH) groups. Here, we report parallel thermogravimetric analysis and Fourier transform infrared spectroscopy methods for systematically manipulating the surface TiOH density. We examine the role of surface hydroxylation on spillover thermodynamics using van't Hoff studies to determine apparent adsorption enthalpies and entropies at constant H* coverage, which is necessary to maintain constant H* translational entropy. Although surface TiOH groups are the likely adsorption sites, the data show removing hydroxyl groups increases spillover. This surprising finding\u2500that adsorption increases as the adsorption site density decreases\u2500is associated with improved thermodynamics on dehydroxylated surfaces. A strong adsorption enthalpy-entropy correlation implicates the changing surface entropy of the titania support itself (i.e., an initial state effect) is deeply intertwined with the H* configurational entropy. These effects are surprising and should apply to all low-coverage adsorbates where entropy terms dominate more traditional enthalpic considerations. Moreover, this study points toward a kinetic test for invoking spillover in a reaction mechanism: namely, in situ dehydroxylation should enhance spillover processes.",
+    "doi": "10.1021/jacs.4c07539",
+    "url": "https://www.semanticscholar.org/paper/0b103e63cde1b3edaa8bbce632c466408967859b",
+    "source": "semantic_scholar",
+    "external_id": "0b103e63cde1b3edaa8bbce632c466408967859b"
+  },
+  {
+    "title": "Cu2O nanoparticles sensitize TiO2/CdS nanowire arrays to prolong charge carrier lifetime and highly enhance unassisted photoelectrochemical hydrogen generation with 4.3% efficiency.",
+    "authors": [
+      "Kangbo Jiang",
+      "Wenzhong Wang",
+      "Jun Wang",
+      "Tianyu Zhu",
+      "Lizhen Yao",
+      "Ying Cheng",
+      "Yue Wang",
+      "Yujie Liang",
+      "Junli Fu"
+    ],
+    "year": 2020,
+    "abstract": "Effective separation of charge carriers and substantial prolongation of charge carrier lifetime are two vital issues for a photoanode to achieve highly efficient photoelectrochemical (PEC) hydrogen generation. Herein, a Cu2O-nanoparticle-sensitized TiO2/CdS (TiO2/CdS/Cu2O) nanowire array photoanode is fabricated via subtly combining successive ionic layer adsorption and reaction with a chemical bath deposition method. Both the type-II band alignment with a stair-like structure and a p-n junction are integrated into this ternary photoanode. The fabricated photoanode shows a significant enhancement in the PEC H2 production with 4.3% efficiency. The measurements of light absorption, photoluminescence and electrochemical spectra undoubtedly demonstrate that the enhanced PEC H2 generation is ascribed to the remarkable enhancement of visible-light absorbing ability, efficient space charge separation and substantial prolongation of charge carrier lifetime, which are achieved by the synergetic effects of the type-II band alignment with a stair-like structure and the p-n junction. The enhanced PEC H2 generation demonstrates the potential of the TiO2/CdS/Cu2O nanowire arrays as a photoanode to efficiently convert solar energy into chemical fuels.",
+    "doi": "10.1039/d0dt01643h",
+    "url": "https://www.semanticscholar.org/paper/29e5c523dbffd41d6bf5bda8351e7f81a1aab7b7",
+    "source": "semantic_scholar",
+    "external_id": "29e5c523dbffd41d6bf5bda8351e7f81a1aab7b7"
+  },
+  {
+    "title": "Time-of-Flight Spectroscopy of Muonic Hydrogen Atoms and Molecules",
+    "authors": [
+      "TRIUMF Muonic Hydrogen Collaboration",
+      "M. C. Fujiwara",
+      "A. Adamczak",
+      "J. M. Bailey",
+      "G. A. Beer",
+      "J. L. Beveridge",
+      "M. P. Faifman",
+      "T. M. Huber",
+      "P. Kammel",
+      "S. K. Kim",
+      "P. E. Knowles",
+      "A. R. Kunselman",
+      "V. E. Markushin",
+      "G. M. Marshall",
+      "G. R. Mason",
+      "F. Mulhauser",
+      "A. Olin",
+      "C. Petitjean",
+      "T. A. Porcelli",
+      "J. Zmeskal"
+    ],
+    "year": null,
+    "abstract": "Studies of muonic hydrogen atoms and molecules have been performed traditionally in bulk targets of gas, liquid or solid. At TRIUMF, Canada's meson facility, we have developed a new type of target system using multilayer thin films of solid hydrogen, which provides a beam of muonic hydrogen atoms in vacuum. Using the time-of-flight of the muonic atoms, the energy-dependent information of muonic reactions are obtained in direct manner. We discuss some unique measurements enabled by the new technique, with emphasis on processes relevant to muon catalyzed fusion.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/nucl-ex/0101007v1",
+    "source": "arxiv",
+    "external_id": "nucl-ex/0101007v1"
+  },
+  {
+    "title": "A computational investigation of H2 adsorption and dissociation on Au nanoparticles supported on TiO2 surface",
+    "authors": [
+      "Andrey Lyalin",
+      "Tetsuya Taketsugu"
+    ],
+    "year": null,
+    "abstract": "The specific role played by small gold nanoparticles supported on the rutile TiO2(110) surface in the processes of adsorption and dissociation of H2 is discussed. It is demonstrated that the molecular and dissociative adsorption of H2 on Au_n clusters containing n = 1, 2, 8 and 20 atoms depends on cluster size, geometry structure, cluster flexibility and the interaction with the support material. Rutile TiO2(110) support energetically promotes H2 dissociation on gold clusters. It is demonstrated that the active sites towards H2 dissociation are located at corners and edges on the surface of the gold nanoparticle in the vicinity of the support. The low coordinated oxygen atoms on the TiO2(110) surface play a crucial role for H2 dissociation. Therefore the catalytic activity of a gold nanoparticle supported on the rutile TiO2(110) surface is proportional to the length of the perimeter interface between the nanoparticle and the support.",
+    "doi": "10.1039/c1fd00013f",
+    "url": "http://arxiv.org/abs/1108.3506v1",
+    "source": "arxiv",
+    "external_id": "1108.3506v1"
+  },
+  {
+    "title": "Molecular Adsorption of H2O on TiO2 and TiO2:Y Surfaces",
+    "authors": [
+      "Dilshod Nematov",
+      "Khilmirzo Kholmurodov",
+      "Mirzoaziz Husenzoda",
+      "Andrey Lyubchyk",
+      "Amondulloi Burhonzoda"
+    ],
+    "year": null,
+    "abstract": "In this work, using theoretical calculations within the framework of the density functional theory, taking into account the dispersive VDW interaction, the processes of adsorption and interaction of a water molecule with a TiO2 surface in various configurations are investigated. At the atomic/molecular level, the interactions of a water molecule with a TiO2 surface have been studied for various orientations. The results of calculations within the framework of DFT+ VDW show that the adsorption energies of single water molecules in different initial positions on the substrate surface vary from-0.72 to-0.84 eV, and the most stable adsorbate structure is the TiO2+ H2O system upon adsorption of a molecule of water, parallel to the Y axis, because during the adsorption of H2O parallel to the Y axis, some favorable effects are observed in the band structure of titanium dioxide. On the one hand, the band gap decreases to 2.59 eV, and on the other hand, a new energy state appears in the band gap with an energy contribution of 0.17 eV, when water is physisorbed and interacts with a titanium atom at a distance of 2.12 \u00c5 and occupies a perpendicular position relative to the surface.",
+    "doi": "10.28991/HEF-2022-03-02-07",
+    "url": "http://arxiv.org/abs/2601.02431v1",
+    "source": "arxiv",
+    "external_id": "2601.02431v1"
+  },
+  {
+    "title": "Metal hydride material requirements for automotive hydrogen storage systems",
+    "authors": [
+      "Jose Miguel Pasini",
+      "Claudio Corgnale",
+      "Bart A. van Hassel",
+      "Theodore Motyka",
+      "Sudarshan Kumar",
+      "Kevin L. Simmons"
+    ],
+    "year": null,
+    "abstract": "The United States Department of Energy (DOE) has published a progression of technical targets to be satisfied by on-board rechargeable hydrogen storage systems in light-duty vehicles. By combining simplified storage system and vehicle models with interpolated data from metal hydride databases, we obtain material-level requirements for metal hydrides that can be assembled into systems that satisfy the DOE targets for 2017. We assume minimal balance-of-plant components for systems with and without a hydrogen combustion loop for supplemental heating. Tank weight and volume are driven by the stringent requirements for refueling time. The resulting requirements suggest that, at least for this specific application, no current on-board rechargeable metal hydride satisfies these requirements.",
+    "doi": "10.1016/j.ijhydene.2012.08.112",
+    "url": "http://arxiv.org/abs/1307.0890v1",
+    "source": "arxiv",
+    "external_id": "1307.0890v1"
+  },
+  {
+    "title": "Lamb Shift in Light Hydrogen-Like Atoms",
+    "authors": [
+      "Vladimir G. Ivanov",
+      "Savely G. Karshenboim"
+    ],
+    "year": null,
+    "abstract": "Calculation of higher-order two-loop corrections is now a limiting factor in development of the bound state QED theory of the Lamb shift in the hydrogen atom and in precision determination of the Rydberg constant. Progress in the study of light hydrogen-like ions of helium and nitrogen can be helpful to investigate these uncalculated terms experimentally. To do that it is necessary to develop a theory of such ions. We present here a theoretical calculation for low energy levels of helium and nitrogen ions.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/physics/0009069v1",
+    "source": "arxiv",
+    "external_id": "physics/0009069v1"
+  },
+  {
+    "title": "Tuning the electron injection mechanism by changing the adsorption mode:the case study of Alizarin on TiO2",
+    "authors": [
+      "Federico Soria",
+      "Chiara Daldossi",
+      "Cristiana Di Valentin"
+    ],
+    "year": null,
+    "abstract": "Functionalized TiO2 nanoparticles with intense fluorescent dyes is a promising tool for several technological applications ranging from photochemistry, photocatalysis, photovoltaics, photodynamic therapy or bioimaging. Here, we present the case study of the Alizarin adsorption on TiO2 nanoparticles (NPs) of different shape and increasing size up to 2.2 nm (700 atoms), by means of density functional theory (DFT) calculations. We find that Alizarin can bind in three different ways, depending on the number and type of bonds between Alizarin and TiO2: \"tridented\", \"bidented\" and \"chelated\". Next, we investigate the optical properties of these systems by time-dependent density functional theory (TDDFT) calculations. Based on the absorption spectra and the Kohn-Sham orbitals analysis, we discovered that the mechanism of electron injection depends on the Alizarin binding mode to the TiO2 surface. While for bidented and chelated adsorption modes a direct charge transfer is observed, for the tridented one an indirect mechanism governs the charge transfer process following the excitation. Our results are in good agreement with existing experimental data and suggests that by tailoring the shape of the TiO2 NPs and, thus, determining the type of undercoordinated Ti atoms prevalently exposed at the surface, it is possible to control the predominant injection mechanism.",
+    "doi": "10.1016/j.mtener.2022.101085",
+    "url": "http://arxiv.org/abs/2207.00830v1",
+    "source": "arxiv",
+    "external_id": "2207.00830v1"
+  },
+  {
+    "title": "2s Hyperfine Structure in Hydrogen Atom and Helium-3 Ion",
+    "authors": [
+      "Savely G. Karshenboim"
+    ],
+    "year": null,
+    "abstract": "The usefulness of study of hyperfine splitting in the hydrogen atom is limited on a level of 10 ppm by our knowledge of the proton structure. One way to go beyond 10 ppm is to study a specific difference of the hyperfine structure intervals 8 Delta nu_2 - Delta nu_1. Nuclear effects for are not important this difference and it is of use to study higher-order QED corrections.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/physics/0102085v1",
+    "source": "arxiv",
+    "external_id": "physics/0102085v1"
+  },
+  {
+    "title": "Unraveling the Catalytic Effect of Hydrogen Adsorption on Pt Nanoparticle Shape-Change",
+    "authors": [
+      "Cameron J. Owen",
+      "Nicholas Marcella",
+      "Yu Xie",
+      "Jonathan Vandermause",
+      "Anatoly I. Frenkel",
+      "Ralph G. Nuzzo",
+      "Boris Kozinsky"
+    ],
+    "year": null,
+    "abstract": "The activity of metal catalysts depends sensitively on dynamic structural changes that occur during operating conditions. The mechanistic understanding underlying such transformations in small Pt nanoparticles (NPs) of $\\sim1-5$ nm in diameter, commonly used in hydrogenation reactions, is currently far from complete. In this study, we investigate the structural evolution of Pt NPs in the presence of hydrogen using reactive molecular dynamics (MD) simulations and X-ray spectroscopy measurements. To gain atomistic insights into adsorbate-induced structural transformation phenomena, we employ a combination of MD based on first-principles machine-learned force fields with extended X-ray absorption fine structure (EXAFS) measurements. Simulations and experiments provide complementary information, mutual validation, and interpretation. We obtain atomic-level mechanistic insights into `order-disorder' structural transformations exhibited by highly dispersed heterogeneous Pt catalysts upon exposure to hydrogen. We report the emergence of previously unknown candidate structures in the small Pt NP limit, where exposure to hydrogen leads to the appearance of a `quasi-icosahedral' intermediate symmetry, followed by the formation of `rosettes' on the NP surface. Hydrogen adsorption is found to catalyze these shape transitions by lowering their temperatures and increasing the apparent rates, revealing the dual catalytic and dynamic nature of interaction between nanoparticle and adsorbate. Our study also offers a new pathway for deciphering the reversible evolution of catalyst structure resulting from the chemisorption of reactive species, enabling the determination of active sites and improved interpretation of experimental results with atomic resolution.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2306.00901v2",
+    "source": "arxiv",
+    "external_id": "2306.00901v2"
+  },
+  {
+    "title": "Atomic Layer Deposition-Based Synthesis of Photoactive TiO2 Nanoparticle Chains by Using Carbon Nanotubes as Sacrificial Templates",
+    "authors": [
+      "Shaoren Deng",
+      "Sammy W. Verbruggen",
+      "Zhanbing He",
+      "Daire J. Cott",
+      "Philippe M. Vereecken",
+      "Johan A. Martens",
+      "Sara Bals",
+      "Silvia Lenaerts",
+      "Christophe Detavernier"
+    ],
+    "year": null,
+    "abstract": "Highly ordered and self supported anatase TiO2 nanoparticle chains were fabricated by calcining conformally TiO2 coated multi-walled carbon nanotubes (MWCNTs). During annealing, the thin tubular TiO2 coating that was deposited onto the MWCNTs by atomic layer deposition (ALD) was transformed into chains of TiO2 nanoparticles (~12 nm diameter) with an ultrahigh surface area (137 cm2 per cm2 of substrate), while at the same time the carbon from the MWCNTs was removed. Photocatalytic tests on the degradation of acetaldehyde proved that these forests of TiO2 nanoparticle chains are highly photo active under UV light because of their well crystallized anatase phase.",
+    "doi": "10.1039/C3RA42928H",
+    "url": "http://arxiv.org/abs/1410.5942v1",
+    "source": "arxiv",
+    "external_id": "1410.5942v1"
+  },
+  {
+    "title": "Interfacial thermal conductance between TiO2 nanoparticle and water: A molecular dynamics study",
+    "authors": [
+      "Mahdi Roodbari",
+      "Mohsen Abbasi",
+      "Saeed Arabha",
+      "Ayla Gharedaghi",
+      "Ali Rajabpour"
+    ],
+    "year": null,
+    "abstract": "The interfacial thermal conductance (Kapitza conductance) between a TiO2 nanoparticle and water is investigated using transient non-equilibrium molecular dynamics. It is found that Kapitza conductance of TiO2 nanoparticles is one order of magnitude greater than other conventional nanoparticles such as gold, silver, silicon, platinum and also carbon nanotubes and graphene flakes. This difference can be explained by comparing the contribution of electrostatic interactions between the partially charged titanium and oxygen atoms and water atoms to the van der Waals interactions, which increases the cooling time by about 10 times. The effects of diameter and temperature of nanoparticle, surface wettability on the interfacial thermal conductance are also investigated. The results showed that by increasing the diameter of the nanoparticle from 4 to 9 nm, Kapitza conductance decreased slightly. Also, increasing the temperature of the heated nanoparticle from 400 K to 600 K led to thermal conductance enhancement. It has been found that increasing the coupling strength of Lennard-Jones (LJ) potential from 0.5 to 4 caused the increment of the Kapitza conductance about 20%. It is also shown that a continuum model which its input is provided by molecular dynamics can be a suitable approximation to describe the thermal relaxation of a nanoparticle in a liquid medium.",
+    "doi": "10.1016/j.molliq.2021.118053",
+    "url": "http://arxiv.org/abs/2111.04143v1",
+    "source": "arxiv",
+    "external_id": "2111.04143v1"
+  },
+  {
+    "title": "Hydrogen Production by Photocatalytic Water Splitting over Pt/TiO<sub>2</sub> Nanosheets with Exposed (001) Facets",
+    "authors": [
+      "Jiaguo Yu",
+      "Lifang Qi",
+      "Mietek Jaroniec"
+    ],
+    "year": 2010,
+    "abstract": "Pt/TiO2 nanosheets with exposed (001) facets were fabricated by a simple hydrothermal route in a Ti(OC4H9)4-HF-H2O mixed solution followed by a photochemical reduction deposition of Pt nanoparticles on TiO2 nanosheets under xenon lamp irradiation. The prepared samples were characterized by transmission electron microscopy, X-ray diffraction, X-ray photoelectron spectroscopy, nitrogen adsorption\u2212desorption isotherms, UV\u2212vis diffuse reflectance spectroscopy, and photoluminescence (PL) spectroscopy. Production of \u2022OH radicals on the TiO2 surface was detected by the PL technique using coumarin as a probe molecule. The effects of Pt loading on the rates of photocatalytic hydrogen production of the as-prepared samples in ethanol aqueous solution were investigated and discussed. The results showed that the photocatalytic hydrogen production rates of TiO2 nanosheets from the ethanol aqueous solutions were significantly enhanced by loaded Pt on the TiO2 nanosheets, and the latter with a 2 wt % of deposited Pt exhibited the highest photocatalytic activity. All fluorinated TiO2 nanosheets exhibited much higher photocatalytic activity than Degussa P25 TiO2 and pure TiO2 nanoparticles prepared in pure water due to the synergistic effect of surface fluorination and exposed (001) facets.",
+    "doi": "10.1021/jp104488b",
+    "url": "https://openalex.org/W2074466629",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2074466629"
+  },
+  {
+    "title": "Tailored Titanium Dioxide Nanomaterials: Anatase Nanoparticles and Brookite Nanorods as Highly Active Photocatalysts",
+    "authors": [
+      "Tarek A. Kandiel",
+      "Armin Feldhoff",
+      "Lars Robben",
+      "Ralf Dillert",
+      "Detlef W. Bahnemann"
+    ],
+    "year": 2010,
+    "abstract": "High quality brookite TiO2 nanorods have been obtained by the thermal hydrolysis of commercially available aqueous solutions of titanium bis(ammonium lactate) dihydroxide in the presence of high concentrations of urea (\u22656.0 M) as an in situ OH\u2212 source. Biphasial anatase/brookite mixtures are obtained at lower urea concentrations. The ratios between anatase and brookite can readily be tailored by the control of the urea concentration. The obtained powders have been characterized by X-ray diffraction, Raman spectroscopy, field emission-scanning electron microscopy, high-resolution transmission electron microscopy, UV\u2212vis diffuse reflectance spectra, and nitrogen adsorption. The photocatalytic activity of pure anatase nanoparticles, of anatase/brookite mixtures, and of pure brookite nanorods has been assessed by hydrogen evolution from aqueous methanol solution as well as by the degradation of dichloroacetic acid (DCA) in aqueous solution. The results indicate that the photocatalytic hydrogen evolution activity of anatase/brookite mixtures and of pure brookite is higher than that of pure anatase nanoparticles despite of the lower surface area of the former. This behavior is explained by the fact that the conduction band edge of brookite phase TiO2 is shifted more cathodically than that of anatase as experimentally evidenced under dark and UV\u2212vis illumination conditions. On the contrary, in case of the photocatalytic degradation of DCA, anatase/brookite mixtures and pure brookite exhibit lower photocatalytic activity than pure anatase nanoparticles. This behavior correlates well with the surface area of the investigated powders.",
+    "doi": "10.1021/cm903472p",
+    "url": "https://openalex.org/W2067124342",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2067124342"
+  },
+  {
+    "title": "Low Pressure CO<sub>2</sub> Hydrogenation to Methanol over Gold Nanoparticles Activated on a CeO<sub><i>x</i></sub>/TiO<sub>2</sub> Interface",
+    "authors": [
+      "Xiaofang Yang",
+      "Shyam Kattel",
+      "Sanjaya D. Senanayake",
+      "J. Anibal Boscoboinik",
+      "Xiaowa Nie",
+      "Jes\u00fas Graciani",
+      "Jos\u00e9 A. Rodr\u00edguez",
+      "Ping Liu",
+      "Dar\u0131\u0301o Stacchiola",
+      "Jingguang G. Chen"
+    ],
+    "year": 2015,
+    "abstract": "Capture and recycling of CO2 into valuable chemicals such as alcohols could help mitigate its emissions into the atmosphere. Due to its inert nature, the activation of CO2 is a critical step in improving the overall reaction kinetics during its chemical conversion. Although pure gold is an inert noble metal and cannot catalyze hydrogenation reactions, it can be activated when deposited as nanoparticles on the appropriate oxide support. In this combined experimental and theoretical study, it is shown that an electronic polarization at the metal-oxide interface of Au nanoparticles anchored and stabilized on a CeO(x)/TiO2 substrate generates active centers for CO2 adsorption and its low pressure hydrogenation, leading to a higher selectivity toward methanol. This study illustrates the importance of localized electronic properties and structure in catalysis for achieving higher alcohol selectivity from CO2 hydrogenation.",
+    "doi": "10.1021/jacs.5b06150",
+    "url": "https://openalex.org/W2300652854",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2300652854"
+  },
+  {
+    "title": "Computational Studies of Catechol and Water Interactions with Titanium Oxide Nanoparticles",
+    "authors": [
+      "Paul C. Redfern",
+      "Peter Zapol",
+      "Larry A. Curtiss",
+      "Tijana Rajh",
+      "Marion C. Thurnauer"
+    ],
+    "year": 2003,
+    "abstract": "The interaction of catechol and water with titanium oxide nanoparticles was investigated using ab initio molecular orbital theory and density functional theory. Hydrogen-terminated TiO2 clusters were used to model the surface of anatase nanoparticles. The calculations indicate that catechol reacts with a TiO defect site on the surface to form a bidentate structure that is favored over dissociative or molecular adsorption on the (101) anatase surface. The dissociative adsorption of catechol at the defect site leads to a much larger red shift in the TiO2 excitation energy than molecular adsorption on the (101) anatase surface on the basis of ZINDO/S calculations. This is consistent with recent experimental results on small (<2 nm) titania nanoparticles. The calculations on water adsorption indicate that it can also add to the TiO double bond site. However, molecular adsorption of water on the (101) anatase surface is more favorable.",
+    "doi": "10.1021/jp0303669",
+    "url": "https://openalex.org/W1966166952",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W1966166952"
+  },
+  {
+    "title": "AgPd and CuPd Catalysts for Selective Hydrogenation of Acetylene",
+    "authors": [
+      "Madelyn R. Ball",
+      "Keishla R. Rivera-Dones",
+      "Elise B. Gilcher",
+      "Samantha F. Ausman",
+      "Cole W. Hullfish",
+      "Edgard A. Lebr\u00f3n\u2010Rodr\u00edguez",
+      "James A. Dumesic"
+    ],
+    "year": 2020,
+    "abstract": "The selective hydrogenation of acetylene has been studied over AgPd and CuPd catalysts. Controlled surface reactions were used to synthesize these bimetallic nanoparticles on both TiO2 and SiO2 supports. Chemisorption measurements of the bimetallic catalysts indicate that Pd prefers to be on the nanoparticle surface with a Cu parent catalyst, while Pd prefers to be subsurface with a Ag parent catalyst. From energy-dispersive X-ray spectroscopy analysis, the composition of the nanoparticles is determined to be more uniform on the SiO2 support compared to that on the TiO2 support. X-ray absorption spectroscopy results indicate that, after reduction, the CuPd bimetallic catalysts have some Pd\u2013Pd bonds, but the average number of Pd\u2013Pd bonds decreases after reaction. Infrared spectra of the adsorbed CO show that an increased fraction of isolated Pd species are present on the bimetallic catalysts compared to those on the monometallic catalysts. Adsorption of acetylene and ethylene, however, indicates adsorbed surface species that require contiguous Pd ensembles. These results suggest that the surface structure of the catalyst is highly dynamic and influenced by the gas environment, as well as the support. The catalysts are active for the selective hydrogenation of acetylene in an ethylene-rich environment under mild conditions. Over all catalysts, the ethylene selectivity is greater than 92%; however, improved selectivity is observed over the bimetallic catalysts compared to that over the monometallic Pd catalysts. An ethylene selectivity of 100% is observed over the CuPd0.08/TiO2 catalyst. The highest acetylene conversion rate per gram of Pd is observed over the CuPd0.02/TiO2 catalyst, while the highest turnover frequency is found over the AgPd0.64/TiO2 catalyst. The bimetallic SiO2-supported catalysts have lower rates than Pd/SiO2 but still show improved selectivity. The combined characterization measurements and reaction kinetics studies indicate that the performance improvements of the bimetallic catalysts may be attributed to both electronic and geometric modifications of Pd by the parent Cu or Ag metal.",
+    "doi": "10.1021/acscatal.0c01536",
+    "url": "https://openalex.org/W3041417839",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W3041417839"
+  },
+  {
+    "title": "Sulfur-Doped Anatase Titanium Dioxide Induced by Polysulfide Chemistry for Enhanced Lithium-Ion Storage Performance.",
+    "authors": [
+      "Xiaocheng Ju",
+      "Yuede Pan",
+      "Jingjing Han",
+      "Yi Xiao",
+      "Dongjie Shang",
+      "Xiaowu Liu",
+      "Congwei Wang",
+      "Gang Li",
+      "Chunli Guo",
+      "Kaying Wang"
+    ],
+    "year": 2025,
+    "abstract": "The substitutional anion doping for lattice oxygen in titanium dioxide (TiO2) is an effective strategy for introducing oxygen vacancies and improving the conductivity, thereby enhancing the ion storage properties. Herein, sulfur-doped anatase titanium dioxide (S-TiO2(A)) prepared by the annealing of a composite of sulfur/amorphous TiO2 (S/TiO2(a)), which is in situ formed through the simultaneous hydrolysis of titanium tetrachloride (TiCl4) and disproportionation of polysulfide anions at an elevated temperature of 80 \u00b0C, is applied for high-performance lithium-ion storage. Meanwhile, three control samples are prepared. S/TiO2(a) is treated with CS2 to obtain TiO2(a), which is then annealed to get TiO2(A); rutile TiO2 (TiO2(R)) is prepared through the hydrolysis of TiCl4 at 80 \u00b0C and the following annealing process. Compared to each of the undoped amorphous, anatase, and rutile TiO2, S-TiO2(A) shows superior electrochemical performance in terms of the capacity, initial Coulombic efficiency (ICE), rate capability, and cycling performance. Such an improvement can be ascribed to the enhanced electronic conductivity and boosted lithium-ion diffusion kinetics of S-TiO2(A). Furthermore, the electrochemical mechanism is examined with ex situ electrochemical impedance spectrometry (EIS) and X-ray diffraction (XRD). This study demonstrates polysulfide anions as effective sulfur sources for the preparation of S-TiO2(A) as a high-performance lithium-ion battery anode material.",
+    "doi": "10.1021/acsami.5c12416",
+    "url": "https://www.semanticscholar.org/paper/70c0df35493cef3381e7b70cc10209a2fc8149e4",
+    "source": "semantic_scholar",
+    "external_id": "70c0df35493cef3381e7b70cc10209a2fc8149e4"
+  },
+  {
+    "title": "Electrochemically in situ formed rocksalt phase in titanium dioxide determines pseudocapacitive sodium-ion storage",
+    "authors": [
+      "Dafu Tang",
+      "Ruohan Yu",
+      "Yalong Jiang",
+      "Jiantao Li",
+      "Zerui Yan",
+      "Sicheng Fan",
+      "Xiaojuan Huang",
+      "Sungsik Lee",
+      "Tianyi Li",
+      "Qingshui Xie",
+      "Liqiang Mai",
+      "D. Peng",
+      "Qiulong Wei"
+    ],
+    "year": 2025,
+    "abstract": "Earth-abundant TiO2 is a promising negative electrode for low-cost sodium-ion batteries (SIBs) owing to its high capacity, rapid (dis)charging capability, safe operation potential and nonflammability. Crystalline anatase TiO2 is not suitable for reversible Na+ (de)intercalation, but it displays pseudocapacitive response after repeated cycles. Herein, we find and demonstrate that ordered rocksalt (RS) NaTiO2 nanograins are in situ formed by electrochemically cycling with Na+ ions in anatase and amorphous TiO2. The in situ formed RS-NaTiO2 follows a solid-solution reaction with small volume changes of only 2.0%, that determines the pseudocapacitive \u201cmirror-like\u201d cyclic voltammetry curve with a couple of broad redox peaks at 0.75\u2009V vs. Na+/Na, a high capacity of 253\u2009mAh\u2009g\u22121, high-rate capability and thousands of stable cycles. The multistep crystalline-to-amorphous-to-RS transformations are able to be electrochemically activated during the aging process of assembled full cells. Our finding provides a direction for developing unconventional Ti-based high-performance active materials for SIBs with both high energy and power densities. Earth-abundant TiO2 is a promising negative electrode material for low-cost sodium-ion batteries. Here, authors show that ordered rocksalt NaTiO2 nanograins are in situ formed by electrochemically cycling with Na+ ions in anatase TiO2, which determines the pseudocapacitive high-rate capability.",
+    "doi": "10.1038/s41467-025-57310-x",
+    "url": "https://www.semanticscholar.org/paper/2dc85cbe9df09c8a5b05d7025142596dc512283e",
+    "source": "semantic_scholar",
+    "external_id": "2dc85cbe9df09c8a5b05d7025142596dc512283e"
+  },
+  {
+    "title": "Effect of Hydrogen Gas on Titanium Dioxide using Heterostructure H2-TiO2: An ab-initio Study",
+    "authors": [
+      "Tara Prasad",
+      "B. Prabhakar",
+      "A. G. Bhavani",
+      "T. Wani",
+      "Ravi Shanker Ahuja"
+    ],
+    "year": 2024,
+    "abstract": "High significant importance in energy and environmental research, its non-toxic and non-flammable character and relatively abundance and environmental friendly nature, Titanium Dioxide is an interesting Transition Metal Oxide. With its good corrosion resistance property it is also used as pigment in paint colours and in the coatings. A potential candidate for high-temperature gas sensing applications bleveraging its nanoparticles due to its notable excellent sensitivity and stability. It is also attractive due to its significance as photocatalysts in solar cells as a semiconductor material. In this ab-initio study, we designed a 2D H2-TiO2 heterostructure considering rutile and anatase based and observed comparative variation in diverse properties of Titanium Dioxide due to Hydrogen Gas. In this ab-initio study, we designed a 2D both rutile and anatase based H2-TiO2 hetrostructure and observed comparative variation in diverse properties of Titanium Dioxide due to Hydrogen Gas considering potential application in Hydrogen Fuel based engine and container where TiO2 is used. In this study we presented its predicted impact under high pressure inside the border exertion of DFT exhausting Quantum ESPRESSO software using High Performance Computing and comparatively investigated and discussed various related properties of the heterostructure.",
+    "doi": "10.1051/e3sconf/202451101027",
+    "url": "https://www.semanticscholar.org/paper/c08daf7454bbe3f3d0fcb9c65ea58220f0a88102",
+    "source": "semantic_scholar",
+    "external_id": "c08daf7454bbe3f3d0fcb9c65ea58220f0a88102"
+  },
+  {
+    "title": "Ligand-Mediated Proton-Coupled Electron Injection into Reactive Cores of Soluble Macroanion-Like Complexes of Titanium Dioxide",
+    "authors": [
+      "Manoj Raula",
+      "Sapir Dabush Avnaim",
+      "Aranya Kar",
+      "M. Samin",
+      "Shubasis Roy",
+      "M. Baranov",
+      "Nitai Leffler",
+      "Zhongling Lang",
+      "J. Poblet",
+      "I. Weinstock"
+    ],
+    "year": 2025,
+    "abstract": "Although widely utilized as reactive components of devices and functional materials, the harnessing of metal-oxide nanocrystals (NCs) as ligand-tunable reaction centers of soluble catalysts remains an ongoing challenge. We now report that readily modifiable, oxidatively inert polyoxometalate (POM) ligands amplify and rationally control rates of photocatalytic H2 evolution by anatase-TiO2 NCs. This was achieved using a series of four POM-derived oxo-donor ligands, [(Xn+W11O39)TiIV\u2013O\u2013](10\u2011n)\u2013, Xn+ = Al3+, Si4+, P5+, and [(P2W17O61)TiIV\u2013O\u2013]8\u2013 (written here as oxo-anion donors) coordinated via bridging-oxo linkages to Ti atoms at the surfaces of 7 \u00b1 1.6 nm anatase-TiO2 NCs, wherein the four respective macroanion-like complexes are each ligated, on average, by 90 \u00b1 15 POM anions. Under UV\u2013vis light irradiation in water (10% MeOH), rates of H2 evolution are a linear function of the quantum yield for photocatalytic oxidation of MeOH by the Ti-substituted POM ligands. This rate-limiting ligand reduction is followed by rapid visible-light driven proton-coupled electron injection into TiO2, which proceeds until rates of H2 evolution achieve parity with those of POM reduction, resulting finally in a dynamic steady state. Here, the NC core of the most reactive, [(P5+W11O39)TiIV\u2013O\u2212]5\u2013\u2212ligated complex, 3, is populated by 440 electrons and 440 protons, representing an effective H+ concentration of 10 M (per nm3 of TiO2). The findings show that metal-oxide NCs can function as the reactive centers of ligand-tunable catalysts and, more generally, provide fundamental mechanistic understanding that establishes new structure\u2013reactivity relationships for the design of rationally tunable modular components of functional materials.",
+    "doi": "10.1021/jacs.5c05809",
+    "url": "https://www.semanticscholar.org/paper/cfe043b891e922d55bf80700366971716130f735",
+    "source": "semantic_scholar",
+    "external_id": "cfe043b891e922d55bf80700366971716130f735"
+  },
+  {
+    "title": "Formation of Titanium Dioxide Nanotubes on Ti\u2013Ni Alloys by Anodization for Cr(VI) Removal from Wastewater",
+    "authors": [
+      "N. Alias",
+      "Navid Mirzakhani",
+      "Zuhailawati Hussain",
+      "W. K. Tan",
+      "Go Kawamura",
+      "Atsunori Matsuda",
+      "Z. Lockman"
+    ],
+    "year": 2025,
+    "abstract": "This study evaluated the synthesis of nanotubes (NTs) on a Ti\u2013Ni alloy substrate and application as a photocatalyst for the reduction of toxic Cr(VI). Ti\u2013Ni alloys (with Ni contents of 1, 5, 10, 20, and 40 wt %) prepared via the powder metallurgy method were anodized under parameters that promote NT formation. Field-emission scanning electron microscopy revealed that NT structures were formed only on Ti\u2013Ni alloys containing <10 wt % Ni, while higher Ni content (>20 wt %) led to less defined, nanoporous morphologies. Post-anodization annealing in air promoted the formation of anatase TiO2, while subsequent hydrogenation in an Ar\u2013H2 atmosphere introduced Ti3 + defects and oxygen vacancies without compromising the NT integrity. XPS analysis confirmed the presence of Ni2 + and Ti3 + states, which effectively narrowed the bandgap from 2.31 eV (pure TiO2) to 1.65 eV (Ti-10%Ni), enabling enhanced absorption in the visible-light region. The Ti-10%Ni sample exhibited outstanding photocatalytic performance, achieving complete Cr(VI) removal (100%) under sunlight in 90 min and under UV in just 60 min\ue5f8significantly outperforming undoped TiO2 (70% removal). This enhanced activity is attributed to synergistic effects of Ni doping, Ti3 +-induced midgap states, and suppressed charge recombination, offering a promising route for efficient and sustainable photocatalytic water treatment applications.",
+    "doi": "10.1021/acsomega.5c05466",
+    "url": "https://www.semanticscholar.org/paper/d00dd81ad43cdf8794e7c016ddcec91598af1a9f",
+    "source": "semantic_scholar",
+    "external_id": "d00dd81ad43cdf8794e7c016ddcec91598af1a9f"
+  },
+  {
+    "title": "Understanding and optimizing the sensitization of anatase titanium dioxide surface with hematite clusters",
+    "authors": [
+      "Kati Asikainen",
+      "M. Alatalo",
+      "M. Huttula",
+      "B. Barbiellini",
+      "A. A. Sasikala Devi"
+    ],
+    "year": 2023,
+    "abstract": "The presence of hematite (Fe2O3) clusters at low coverage on titanium dioxide (TiO2) surface has been observed to enhance photocatalytic activity, while excess loading of hematite is detrimental. We conduct a comprehensive density functional theory study of Fe2O3 clusters adsorbed on the anatase TiO2 (101) surface to investigate the effect of Fe2O3 on TiO2. Our study shows that TiO2 exhibits improved photocatalytic properties with hematite clusters at low coverage, as evidenced by a systematic study conducted by increasing the number of cluster adsorbates. The adsorption of the clusters generates impurity states in the band gap improving light absorption and consequently affecting the charge transfer dynamics. Furthermore, the presence of hematite clusters enhances the activity of TiO2 in the hydrogen evolution reaction. The Fe valence mixing present in some clusters leads to a significant increase in H2 evolution rate compared with the fixed +3 valence of Fe in hematite. We also investigate the effect of oxygen defects and find extensive modifications in the electronic properties and local magnetism of the TiO2 -Fe2O3 system, demonstrating the wide-ranging effect of oxygen defects in the combined system.",
+    "doi": "10.1088/1361-648X/ad3ac0",
+    "url": "https://www.semanticscholar.org/paper/792bea013c99f59f290ef268a9e8e8f2e3a80875",
+    "source": "semantic_scholar",
+    "external_id": "792bea013c99f59f290ef268a9e8e8f2e3a80875"
+  },
+  {
+    "title": "The Application of Nano Titanium Dioxide for Hydrogen Production and Storage Enhancement",
+    "authors": [
+      "Angelantonio De Benedetto",
+      "Agnese De Luca",
+      "P. Pellegrino",
+      "R. Rinaldi",
+      "V. De Matteis",
+      "M. Cascione"
+    ],
+    "year": 2023,
+    "abstract": "The utilization of hydrogen (H2) as a renewable and clean energy carrier, free from the reliance on fossil fuels, represents a significant technological challenge. The use of renewable energy sources for hydrogen production, such as photocatalytic hydrogen generation from water under solar radiation, has garnered significant interest. Indeed, the storage of hydrogen presents another hurdle to the ongoing advancement of hydrogen energy. Concerning solid-state hydrogen storage, magnesium hydride (MgH2) has emerged as a promising option due to its high capacity, excellent reversibility, and cost-effectiveness. Nevertheless, its storage performance needs improvement to make it suitable for practical applications. Titanium dioxide (TiO2) has distinguished itself as the most extensively researched photocatalyst owing to its high photo-activity, good chemical and thermal stability, low toxicity, and affordability. This review highlights the application of TiO2 for hydrogen production under visible and solar light, with a particular focus both on its modification without the use of noble metals and its utilization as a catalyst to enhance the hydrogen storage performance of MgH2.",
+    "doi": "10.3390/app132212521",
+    "url": "https://www.semanticscholar.org/paper/df6b0b581d43c30ed376236cad4a0176834e3fdf",
+    "source": "semantic_scholar",
+    "external_id": "df6b0b581d43c30ed376236cad4a0176834e3fdf"
+  },
+  {
+    "title": "Surface-redox sodium-ion storage in anatase titanium oxide",
+    "authors": [
+      "Qiulong Wei",
+      "Xiaoqing Chang",
+      "Danielle M. Butts",
+      "Ryan H. DeBlock",
+      "Kun Lan",
+      "Junbin Li",
+      "Dongliang Chao",
+      "D. Peng",
+      "B. Dunn"
+    ],
+    "year": 2023,
+    "abstract": "Sodium-ion storage technologies are promising candidates for large-scale grid systems due to the abundance and low cost of sodium. However, compared to well-understood lithium-ion storage mechanisms, sodium-ion storage remains relatively unexplored. Herein, we systematically determine the sodium-ion storage properties of anatase titanium dioxide (TiO_2(A)). During the initial sodiation process, a thin surface layer (~3 to 5\u2009nm) of crystalline TiO_2(A) becomes amorphous but still undergoes Ti^4+/Ti^3+ redox reactions. A model explaining the role of the amorphous layer and the dependence of the specific capacity on the size of TiO_2(A) nanoparticles is proposed. Amorphous nanoparticles of ~10\u2009nm seem to be optimum in terms of achieving high specific capacity, on the order of 200\u2009mAh g^\u22121, at high charge/discharge rates. Kinetic studies of TiO_2(A) nanoparticles indicate that sodium-ion storage is due to a surface-redox mechanism that is not dependent on nanoparticle size in contrast to the lithiation of TiO_2(A) which is a diffusion-limited intercalation process. The surface-redox properties of TiO_2(A) result in excellent rate capability, cycling stability and low overpotentials. Moreover, tailoring the surface-redox mechanism enables thick electrodes of TiO_2(A) to retain high rate properties, and represents a promising direction for high-power sodium-ion storage. Sodium ion storage remains relatively unexplored in comparison with well-understood lithium ion storage mechanisms. Here, the authors systematically investigate the surface-redox sodium ion storage properties of anatase titanium dioxide, which delivers excellent rate capability, cycling stability and low overpotentials.",
+    "doi": "10.1038/s41467-022-35617-3",
+    "url": "https://www.semanticscholar.org/paper/ea5bdb99c6cb7ecd7bdb6db36317fd8215182f68",
+    "source": "semantic_scholar",
+    "external_id": "ea5bdb99c6cb7ecd7bdb6db36317fd8215182f68"
+  },
+  {
+    "title": "Interface Engineering of Platinum-Copper Alloy/Titanium Dioxide for Enhanced Photocatalytic Carbon Dioxide Reduction.",
+    "authors": [
+      "Xin Wang",
+      "Wei Tan",
+      "Bo Peng",
+      "Shangcong Sun",
+      "Xue Li",
+      "Kaiqiang Wang",
+      "Jiawei Ji",
+      "Haohong Liao",
+      "Jingfang Sun",
+      "Qing Tong",
+      "Haiqin Wan",
+      "Lin Dong"
+    ],
+    "year": 2024,
+    "abstract": "To develop an efficient photocatalytic carbon dioxide (CO2) reduction aimed at mitigating CO2 emissions and greenhouse effects, we propose a straightforward strategy involving hydrogen reduction treatment of PtCu/Ti to create the PtCu/Ti-H2 catalyst with a distinctive interface structure. Compared with the fresh PtCu/Ti catalyst and the benchmark anatase TiO2, the CH4 production of the PtCu/Ti-H2 catalyst increased by 2 times and 81.6 times, respectively. Comprehensive characterizations confirmed the formation of Pt\u03b4+-Ov-Ti3+ and Cu\u03b4+-Ov-Ti3+ interface structures on the hydrogen-treated PtCu/Ti-H2 catalyst, enhancing light absorption and the separation of photogenerated charge carriers. Further investigation into the reaction mechanism revealed that the Pt\u03b4+-Ov-Ti3+ and Cu\u03b4+-Ov-Ti3+ species on PtCu/Ti-H2 serve as more favorable sites for CO2 adsorption and activation, promoting an enhanced formaldehyde mechanism. This study not only elucidates the relation between photocatalytic CO2 reduction activity and the PtCu/Ti interface structure but also offers a novel strategy for designing alloy/oxide-based catalysts for CO2 photoreduction, overcoming the limitations of previous studies that focused on metal or vacancy systems.",
+    "doi": "10.1016/j.envres.2024.120191",
+    "url": "https://www.semanticscholar.org/paper/bed3123b2859ab8fc8cc7e460ef97fefc62cf151",
+    "source": "semantic_scholar",
+    "external_id": "bed3123b2859ab8fc8cc7e460ef97fefc62cf151"
+  },
+  {
+    "title": "Identification of large polarons and exciton polarons in rutile and anatase polymorphs of titanium dioxide",
+    "authors": [
+      "Zhenbang Dai",
+      "Feliciano Giustino"
+    ],
+    "year": null,
+    "abstract": "Titanium dioxide (TiO2) is a wide-gap semiconductor with numerous applications in photocatalysis, photovoltaics, and neuromorphic computing. The unique functional properties of this material critically depend on its ability to transport charge in the form of polarons, namely narrow electron wavepackets accompanied by local distortions of the crystal lattice. It is currently well established that the most important polymorphs of TiO2, the rutile and anatase phases, harbor small electron polarons and small hole polarons, respectively. However, whether additional polaronic species exist in TiO2, and under which conditions, remain open questions. Here, we provide definitive answers to these questions by exploring the rich landscape of polaron quasiparticles in TiO2 via recently developed ab initio techniques. In addition to the already known small polarons, we identify three novel species, namely a large hole polaron in rutile, a large quasi-two-dimensional electron polaron in anatase, and a large exciton polaron in anatase. These findings complete the puzzle on the polaorn physics of TiO2 and pave the way for systematically probing and manipulating polarons in a broad class of complex oxides and quantum materials.",
+    "doi": "10.1073/pnas.2414203121",
+    "url": "http://arxiv.org/abs/2411.15344v1",
+    "source": "arxiv",
+    "external_id": "2411.15344v1"
+  },
+  {
+    "title": "Optical band edge shift of anatase cobalt-doped titanium dioxide",
+    "authors": [
+      "J. R. Simpson",
+      "H. D. Drew",
+      "S. R. Shinde",
+      "R. J. Choudhary",
+      "S. B. Ogale",
+      "T. Venkatesan"
+    ],
+    "year": null,
+    "abstract": "We report on the optical properties of magnetic cobalt-doped anatase phase titanium dioxide Ti_{1-x}Co_{x}O_{2-d} films for low doping concentrations, 0 &lt;= x &lt;= 0.02, in the spectral range 0.2 to 5 eV. For well oxygenated films (d &lt;&lt; 1) the optical conductivity is characterized by an absence of optical absorption below an onset of interband transitions at 3.6 eV and a blue shift of the optical band edge with increasing Co concentration. The absence of below band gap absorption is inconsistent with theoretical models which contain midgap magnetic impurity bands and suggests that strong on-site Coulomb interactions shift the O-band to Co-level optical transitions to energies above the gap.",
+    "doi": "10.1103/PhysRevB.69.193205",
+    "url": "http://arxiv.org/abs/cond-mat/0205626v2",
+    "source": "arxiv",
+    "external_id": "cond-mat/0205626v2"
+  },
+  {
+    "title": "The effects of copper doping on photocatalytic activity at (101) planes of anatase TiO2: A theoretical study",
+    "authors": [
+      "M. Hussein N. Assadi",
+      "Dorian A. H. Hanaor"
+    ],
+    "year": null,
+    "abstract": "Copper dopants are varyingly reported to enhance photocatalytic activity at titanium dioxide surfaces through uncertain mechanisms. In order to interpret how copper doping might alter the performance of titanium dioxide photocatalysts in aqueous media we applied density functional theory methods to simulate surface units of doped anatase (101) planes. By including van der Waals interactions, we consider the energetics of adsorbed water at anatase surfaces in pristine and copper doped systems. Simulation results indicate that copper dopant at anatase (101) surfaces is most stable in a 2+ oxidation state and a disperse configuration, suggesting the formation of secondary CuO phases is energetically unfavourable. In agreement with previous reports, water at the studied surface is predicted to exhibit molecular adsorption with this tendency slightly enhanced by copper. Results imply that the enhancement of photoactivity at anatase surfaces through Cu doping is more likely to arise from electronic interactions mediated by charge transfer and inter-bandgap states increasing photoexcitation and extending surface-hole lifetimes rather than through the increased density of adsorbed hydroxyl groups.",
+    "doi": "10.1016/j.apsusc.2016.06.178",
+    "url": "http://arxiv.org/abs/1811.09157v1",
+    "source": "arxiv",
+    "external_id": "1811.09157v1"
+  },
+  {
+    "title": "Impact of high-pressure columbite phase of titanium dioxide (TiO2) on catalytic photoconversion of plastic waste and Simultaneous hydrogen (H2) production",
+    "authors": [
+      "Thanh Tam Nguyen",
+      "Kaveh Edalati"
+    ],
+    "year": null,
+    "abstract": "Photoreforming is a sustainable photocatalytic process that degrades plastic waste while simultaneously producing hydrogen (H2) from water. However, this process has received limited attention due to the scarcity of effective catalysts capable of both plastic degradation and H2 production, such as titanium dioxide (TiO2). In this study, an active catalyst is developed by stabilizing the high-pressure orthorhombic phase of TiO2, known as columbite, using a high pressure torsion (HPT) method. This material effectively degrades polyethylene terephthalate (PET) plastic under light, converting it into valuable organic compounds such as formic acid, terephthalate, glycolic acid, and acetic acid. Additionally, it produces a significant amount of H2. The findings show that the high-pressure orthorhombic phase, especially in the presence of oxygen vacancies, enhances catalytic H2 production and microplastic degradation by increasing light absorption, reducing electron-hole recombination, and generating hydroxyl radicals. These results highlight the substantial potential of modified high-pressure TiO2 photocatalysts in simultaneously addressing the plastic waste crisis and the demand for H2 fuel.",
+    "doi": "10.1016/j.jallcom.2024.176722",
+    "url": "http://arxiv.org/abs/2412.00500v1",
+    "source": "arxiv",
+    "external_id": "2412.00500v1"
+  },
+  {
+    "title": "Stability of charges in titanium compounds and charge transfer to oxygen in titanium dioxide",
+    "authors": [
+      "Daniel Koch",
+      "Pavlo Golub",
+      "Sergei Manzhos"
+    ],
+    "year": null,
+    "abstract": "We investigate the charge density distribution in titanium dioxide, molecular titanium complexes and a variety of periodic titanium compounds using delocalization indices and Bader charge analysis. Our results are in agreement with previous experimental and theoretical investigations on the charge stability and deviation from formal oxidation states in transition metal compounds. We present examples for practically relevant redox processes, using molecular titanium dioxide model systems, that illustrate the failure of formal oxidation states to account for some redox phenomena. We observe a pronounced charge stability on titanium for trial systems which are expected to be mainly ionic. No environment tested by us is capable to reduce the local titanium charge remainder below one electron.",
+    "doi": "10.1088/1742-6596/1136/1/012017",
+    "url": "http://arxiv.org/abs/1807.00115v1",
+    "source": "arxiv",
+    "external_id": "1807.00115v1"
+  },
+  {
+    "title": "Nonstoichiometric titanium dioxide nanotubes with enhanced catalytical activity under visible light",
+    "authors": [
+      "A. A. Valeeva",
+      "E. A. Kozlova",
+      "A. S. Vokhmintsev",
+      "R. V. Kamalov",
+      "I. B. Dorosheva",
+      "A. A. Saraev",
+      "I. A. Weinstein",
+      "A. A. Rempel"
+    ],
+    "year": null,
+    "abstract": "The catalytic activity of nanotubular titanium dioxide films formed during the oxidation of acetone to carbon dioxide under the action of visible light with a wavelength of 450 nm was found to be approximately 2 times higher compared to standard titanium dioxide (Degussa P25). The nanotubular films were grown by the anodization of titanium foil using an original technique. Diffuse reflectance spectra of the films are attributed to enhanced activity in the visible spectrum by the nonstoichiometry of titanium dioxide near the interface between the nanotubular film and the titanium foil substrate.",
+    "doi": "10.1038/s41598-018-28045-1",
+    "url": "http://arxiv.org/abs/1906.06235v1",
+    "source": "arxiv",
+    "external_id": "1906.06235v1"
+  },
+  {
+    "title": "Privacy-Preserving Distributed Control for a Networked Battery Energy Storage System",
+    "authors": [
+      "Mihitha Maithripala",
+      "Zongli Lin"
+    ],
+    "year": null,
+    "abstract": "The increasing deployment of distributed Battery Energy Storage Systems (BESSs) in modern power grids necessitates effective coordination strategies to ensure state-of-charge (SoC) balancing and accurate power delivery. While distributed control frameworks offer scalability and resilience, they also raise significant privacy concerns due to the need for inter-agent information exchange. This paper presents a novel privacy-preserving distributed control algorithm for SoC balancing in a networked BESS. The proposed framework includes distributed power allocation law that is designed based on two privacy-preserving distributed estimators, one for the average unit state and the other for the average desired power. The average unit state estimator is designed via the state decomposition method without disclosing sensitive internal states. The proposed power allocation law based on these estimators ensures asymptotic SoC balancing and global power delivery while safeguarding agent privacy from external eavesdroppers. The effectiveness and privacy-preserving properties of the proposed control strategy are demonstrated through simulation results.",
+    "doi": "10.1016/j.est.2026.120958",
+    "url": "http://arxiv.org/abs/2508.19345v2",
+    "source": "arxiv",
+    "external_id": "2508.19345v2"
+  },
+  {
+    "title": "Controllable deposition of titanium dioxides onto carbon nanotubes in aqueous solutions",
+    "authors": [
+      "Rongkai Li",
+      "Dongping Chen",
+      "Xinling Hu",
+      "Yanzhen Huang",
+      "Jing Lu",
+      "Dongxu Li"
+    ],
+    "year": null,
+    "abstract": "Within the field of nanotechnology, nano-scale composites have significant potential in the development of advanced materials for functional applications. Here, composites based on carbon nanotubes and titanium dioxides have been prepared with titanyl sulfate using a chemical bath deposition method at or near room temperature. Two kinds of titanium dioxide depositions corresponding to rutile and anatase were sheathed on carbon nanotubes evenly by adjusting the precursor concentration and temperature. Possible composite mechanisms are discussed. Compared with original tubes, the specific surface areas have been improved nearly four times and the content ratio of mesostructures has also been increased after deposition processes.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1610.02764v1",
+    "source": "arxiv",
+    "external_id": "1610.02764v1"
+  },
+  {
+    "title": "On the oxidation state of titanium in titanium dioxide",
+    "authors": [
+      "Daniel Koch",
+      "Sergei Manzhos"
+    ],
+    "year": null,
+    "abstract": "The oxidation state of titanium in titanium dioxide is commonly assumed to be +4. This assumption is used ubiquitously to rationalize phenomena observed with TiO2. We present a comprehensive electronic structure investigation of Ti ions, TiO2 molecules and TiO2 bulk crystals, using different density functional theory and wave function-based approaches, which suggests a lower oxidation state (+3). Specifically, there is evidence of a significant remaining contribution from valence s and d electrons of Ti, including the presence of a nuclear cusp around the Ti core. The charge corresponding to valence s and d states of Ti amounts to 1 e. The commonly assumed picture may therefore have to be revised.",
+    "doi": "10.1021/acs.jpclett.7b00313",
+    "url": "http://arxiv.org/abs/1702.01555v1",
+    "source": "arxiv",
+    "external_id": "1702.01555v1"
+  },
+  {
+    "title": "Titanium Dioxide as a Catalyst Support in Heterogeneous Catalysis",
+    "authors": [
+      "Samira Bagheri",
+      "Nurhidayatullaili Muhd Julkapli",
+      "Sharifah Bee Abd Hamid"
+    ],
+    "year": 2014,
+    "abstract": "The lack of stability is a challenge for most heterogeneous catalysts. During operations, the agglomeration of particles may block the active sites of the catalyst, which is believed to contribute to its instability. Recently, titanium oxide (TiO2) was introduced as an alternative support material for heterogeneous catalyst due to the effect of its high surface area stabilizing the catalysts in its mesoporous structure. TiO2 supported metal catalysts have attracted interest due to TiO2 nanoparticles high activity for various reduction and oxidation reactions at low pressures and temperatures. Furthermore, TiO2 was found to be a good metal oxide catalyst support due to the strong metal support interaction, chemical stability, and acid-base property. The aforementioned properties make heterogeneous TiO2 supported catalysts show a high potential in photocatalyst-related applications, electrodes for wet solar cells, synthesis of fine chemicals, and others. This review focuses on TiO2 as a support material for heterogeneous catalysts and its potential applications.",
+    "doi": "10.1155/2014/727496",
+    "url": "https://openalex.org/W2104188986",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2104188986"
+  },
+  {
+    "title": "Photocatalytic Water Splitting\u2014The Untamed Dream: A Review of Recent Advances",
+    "authors": [
+      "Tahereh Jafari",
+      "Ehsan Moharreri",
+      "Alireza Shirazi Amin",
+      "Ran Miao",
+      "Wenqiao Song",
+      "Steven L. Suib"
+    ],
+    "year": 2016,
+    "abstract": "Photocatalytic water splitting using sunlight is a promising technology capable of providing high energy yield without pollutant byproducts. Herein, we review various aspects of this technology including chemical reactions, physiochemical conditions and photocatalyst types such as metal oxides, sulfides, nitrides, nanocomposites, and doped materials followed by recent advances in computational modeling of photoactive materials. As the best-known catalyst for photocatalytic hydrogen and oxygen evolution, TiO\u2082 is discussed in a separate section, along with its challenges such as the wide band gap, large overpotential for hydrogen evolution, and rapid recombination of produced electron-hole pairs. Various approaches are addressed to overcome these shortcomings, such as doping with different elements, heterojunction catalysts, noble metal deposition, and surface modification. Development of a photocatalytic corrosion resistant, visible light absorbing, defect-tuned material with small particle size is the key to complete the sunlight to hydrogen cycle efficiently. Computational studies have opened new avenues to understand and predict the electronic density of states and band structure of advanced materials and could pave the way for the rational design of efficient photocatalysts for water splitting. Future directions are focused on developing innovative junction architectures, novel synthesis methods and optimizing the existing active materials to enhance charge transfer, visible light absorption, reducing the gas evolution overpotential and maintaining chemical and physical stability.",
+    "doi": "10.3390/molecules21070900",
+    "url": "https://openalex.org/W2465112285",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2465112285"
+  },
+  {
+    "title": "Nanotechnology for Environmental Remediation: Materials and Applications",
+    "authors": [
+      "Fernanda D. Guerra",
+      "Mohamed F. Attia",
+      "Daniel C. Whitehead",
+      "Frank Alexis"
+    ],
+    "year": 2018,
+    "abstract": "Environmental remediation relies mainly on using various technologies (e.g., adsorption, absorption, chemical reactions, photocatalysis, and filtration) for the removal of contaminants from different environmental media (e.g., soil, water, and air). The enhanced properties and effectiveness of nanotechnology-based materials makes them particularly suitable for such processes given that they have a high surface area-to-volume ratio, which often results in higher reactivity. This review provides an overview of three main categories of nanomaterials (inorganic, carbon-based, and polymeric-based materials) used for environmental remediation. The use of these nanomaterials for the remediation of different environmental contaminants-such as heavy metals, dyes, chlorinated organic compounds, organophosphorus compounds, volatile organic compounds, and halogenated herbicides-is reviewed. Various recent examples are extensively highlighted focusing on the materials and their applications.",
+    "doi": "10.3390/molecules23071760",
+    "url": "https://openalex.org/W2883260922",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2883260922"
+  },
+  {
+    "title": "Photocatalytic Hydrogen Production: Role of Sacrificial Reagents on the Activity of Oxide, Carbon, and Sulfide Catalysts",
+    "authors": [
+      "Vignesh Kumaravel",
+      "Muhammad Danyal Imam",
+      "Ahmed Badreldin",
+      "Rama Krishna Chava",
+      "Jeong Do",
+      "Misook Kang",
+      "Ahmed Abdel\u2010Wahab"
+    ],
+    "year": 2019,
+    "abstract": "Photocatalytic water splitting is a sustainable technology for the production of clean fuel in terms of hydrogen (H2). In the present study, hydrogen (H2) production efficiency of three promising photocatalysts (titania (TiO2-P25), graphitic carbon nitride (g-C3N4), and cadmium sulfide (CdS)) was evaluated in detail using various sacrificial agents. The effect of most commonly used sacrificial agents in the recent years, such as methanol, ethanol, isopropanol, ethylene glycol, glycerol, lactic acid, glucose, sodium sulfide, sodium sulfite, sodium sulfide/sodium sulfite mixture, and triethanolamine, were evaluated on TiO2-P25, g-C3N4, and CdS. H2 production experiments were carried out under simulated solar light irradiation in an immersion type photo-reactor. All the experiments were performed without any noble metal co-catalyst. Moreover, photolysis experiments were executed to study the H2 generation in the absence of a catalyst. The results were discussed specifically in terms of chemical reactions, pH of the reaction medium, hydroxyl groups, alpha hydrogen, and carbon chain length of sacrificial agents. The results revealed that glucose and glycerol are the most suitable sacrificial agents for an oxide photocatalyst. Triethanolamine is the ideal sacrificial agent for carbon and sulfide photocatalyst. A remarkable amount of H2 was produced from the photolysis of sodium sulfide and sodium sulfide/sodium sulfite mixture without any photocatalyst. The findings of this study would be highly beneficial for the selection of sacrificial agents for a particular photocatalyst.",
+    "doi": "10.3390/catal9030276",
+    "url": "https://openalex.org/W2920910053",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2920910053"
+  },
+  {
+    "title": "A Review of Heterogeneous Photocatalysis for Water and Surface Disinfection",
+    "authors": [
+      "John Byrne",
+      "Psm Dunlop",
+      "Jeremy Hamilton",
+      "Pilar Fern\u00e1ndez\u2010Iba\u00f1ez",
+      "Mar\u00eda Inmaculada Polo-L\u00f3pez",
+      "Preetam K. Sharma",
+      "Ashlene Vennard"
+    ],
+    "year": 2015,
+    "abstract": "Photo-excitation of certain semiconductors can lead to the production of reactive oxygen species that can inactivate microorganisms. The mechanisms involved are reviewed, along with two important applications. The first is the use of photocatalysis to enhance the solar disinfection of water. It is estimated that 750 million people do not have accessed to an improved source for drinking and many more rely on sources that are not safe. If one can utilize photocatalysis to enhance the solar disinfection of water and provide an inexpensive, simple method of water disinfection, then it could help reduce the risk of waterborne disease. The second application is the use of photocatalytic coatings to combat healthcare associated infections. Two challenges are considered, i.e., the use of photocatalytic coatings to give \"self-disinfecting\" surfaces to reduce the risk of transmission of infection via environmental surfaces, and the use of photocatalytic coatings for the decontamination and disinfection of medical devices. In the final section, the development of novel photocatalytic materials for use in disinfection applications is reviewed, taking account of materials, developed for other photocatalytic applications, but which may be transferable for disinfection purposes.",
+    "doi": "10.3390/molecules20045574",
+    "url": "https://openalex.org/W2011086529",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2011086529"
+  },
+  {
+    "title": "Rational Catalyst Design for N<sub>2</sub> Reduction under Ambient Conditions: Strategies toward Enhanced Conversion Efficiency",
+    "authors": [
+      "Lei Shi",
+      "Yu Yin",
+      "Shaobin Wang",
+      "Hongqi Sun"
+    ],
+    "year": 2020,
+    "abstract": "Ammonia (NH\u2083), one of the basic chemicals in most fertilizers and a promising carbon-free energy storage carrier, is typically synthesized via the Haber\u2013Bosch process with high energy consumption and massive emission of greenhouse gases. The photo/electrocatalytic nitrogen reduction reaction (NRR) under ambient conditions has attracted increasing interests recently, providing alternative routes to realize green NH\u2083 synthesis. Despite rapid advances achieved in this most attractive research field, the unsatisfactory conversion efficiency including a low NH\u2083 yield rate, and limited Faradaic efficiency or apparent quantum efficiency still remains as a great challenge. The NRR performance is intrinsically related to the electronic and surface structure of catalysts. Rational design and preparation of advanced catalysts are indispensable to improve the performance (e.g., activity and selectivity) of NRR. In this Review, various strategies for the development of desirable catalysts are comprehensively summarized, mainly containing the defect engineering, structural manipulation, crystallographic tailoring, and interface regulation. State-of-the-art heterogeneous NRR catalysts, prevailing theories and underlying catalytic mechanisms, together with current issues, critical challenges, and perspectives are discussed. It is highly expected that this Review will promote the understanding of recent advances in this area and stimulate greater interests for designing promising NRR catalysts in future.",
+    "doi": "10.1021/acscatal.0c01081",
+    "url": "https://openalex.org/W3030614241",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W3030614241"
+  },
+  {
+    "title": "A Heterojunction Design of Single Layer Hole Tunneling ZnO Passivation Wrapping around TiO2Nanowires for Superior Photocatalytic Performance",
+    "authors": [
+      "Amir Ghobadi",
+      "T. Gamze Ulusoy Ghobadi",
+      "Ruslan Garifullin",
+      "Mustafa O. G\u00fcler",
+      "Ali K. Okyay"
+    ],
+    "year": 2016,
+    "abstract": "Nanostructured hybrid heterojunctions have been studied widely for photocatalytic applications due to their superior optical and structural properties. In this work, the impact of angstrom thick atomic layer deposited (ALD) ZnO shell layer on photocatalytic activity (PCA) of hydrothermal grown single crystalline TiO2 nanowires (NWs) is systematically explored. We showed that a single cycle of ALD ZnO layer wrapped around TiO2 NWs, considerably boosts the PCA of the heterostructure. Subsequent cycles, however, gradually hinder the photocatalytic activity (PCA) of the TiO2 NWs. Various structural, optical, and transient characterizations are employed to scrutinize this unprecedented change. We show that a single atomic layer of ZnO shell not only increases light harvesting capability of the heterostructure via extension of the absorption toward visible wavelengths, but also mitigates recombination probability of carriers through reduction of surface defects density and introduction of proper charge separation along the core-shell interface. Furthermore, the ultrathin ZnO shell layer allows a strong contribution of the core (TiO2) valence band holes through tunneling across the ultrathin interface. All mechanisms responsible for this enhanced PCA of heterostructure are elucidated and corresponding models are proposed.",
+    "doi": "10.1038/srep30587",
+    "url": "https://openalex.org/W2502638776",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2502638776"
+  },
+  {
+    "title": "Metal oxide semiconductors for gas sensing",
+    "authors": [
+      "Neeraj Goel",
+      "Kishor Kunal",
+      "Aditya Kushwaha",
+      "Mahesh Kumar"
+    ],
+    "year": 2022,
+    "abstract": "Abstract The usage of the gas sensor has been increasing very rapidly in the industry and in daily life for various potential applications. In the recent years, metal oxide semiconductors (MOS) become the primary choice for designing highly sensitive, stable, and low\u2010cost real\u2010life applications\u2010based gas sensors due to their inherent physical and chemical properties. Researchers have proposed numerous sensing mechanisms to explain the functionality of MOS\u2010based gas sensors. In this review, we have comprehensively covered different sensing mechanisms used for MOS. We have also discussed different parameters affecting the sensitivity and selectivity of the gas sensors. Moreover, the different techniques used to enhance the gas sensing response of MOS\u2010based sensors are also extensively covered. And finally, we give our prospective on recent opportunities and challenges on the future applications of MOS\u2010based gas sensors.",
+    "doi": "10.1002/eng2.12604",
+    "url": "https://openalex.org/W4311953715",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W4311953715"
+  },
+  {
+    "title": "Defect engineering of metal\u2013oxide interface for proximity of photooxidation and photoreduction",
+    "authors": [
+      "Yangen Zhou",
+      "Zizhong Zhang",
+      "Zhiwei Fang",
+      "Mei Qiu",
+      "Lan Ling",
+      "Jinlin Long",
+      "Lu Chen",
+      "Yuecong Tong",
+      "Wenyue Su",
+      "Yongfan Zhang",
+      "Jeffrey C.S. Wu",
+      "Jean\u2010Marie Basset",
+      "Xuxu Wang",
+      "Guihua Yu"
+    ],
+    "year": 2019,
+    "abstract": "Close proximity between different catalytic sites is crucial for accelerating or even enabling many important catalytic reactions. Photooxidation and photoreduction in photocatalysis are generally separated from each other, which arises from the hole-electron separation on photocatalyst surface. Here, we show with widely studied photocatalyst Pt/[Formula: see text] as a model, that concentrating abundant oxygen vacancies only at the metal-oxide interface can locate hole-driven oxidation sites in proximity to electron-driven reduction sites for triggering unusual reactions. Solar hydrogen production from aqueous-phase alcohols, whose hydrogen yield per photon is theoretically limited below 0.5 through conventional reactions, achieves an ultrahigh hydrogen yield per photon of 1.28 through the unusual reactions. We demonstrated that such defect engineering enables hole-driven CO oxidation at the Pt-[Formula: see text] interface to occur, which opens up room-temperature alcohol decomposition on Pt nanoparticles to [Formula: see text] and adsorbed CO, accompanying with electron-driven proton reduction on Pt to [Formula: see text].",
+    "doi": "10.1073/pnas.1901631116",
+    "url": "https://openalex.org/W2944576392",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2944576392"
+  },
+  {
+    "title": "Interface-engineered silicon photocathodes with a NiCoP catalyst-modified TiO2 nanorod array outlayer for photoelectrochemical hydrogen production in alkaline solution",
+    "authors": [
+      "Xuran Sun",
+      "Chang Liu",
+      "Peili Zhang",
+      "Lunlun Gong",
+      "Mei Wang"
+    ],
+    "year": 2020,
+    "abstract": "Abstract To assemble efficient photoelectrochemical (PEC) cells for total water splitting, the inexpensive photocathodes that are active and stable in alkaline solutions are strongly desired, as the known earth abundant catalyst-decorated photoanodes display high activity and good stability for water oxidation mostly in basic media. Herein, we report a Si-based composite photocathode with its front surface coated orderly by an N-doped graphene nanolayer (CN) and a TiO2 nanorod array (TiO2(ALD/NR)), which is loaded with Ni/Co phosphide catalyst (NiCoP) nanoparticles. The optimized Si/CN/TiO2(ALD/NR)/NiCoP electrode exhibits a photocurrent density of \u221219.87\u00a0mA\u00a0cm\u22122\u00a0at 0\u00a0V, an onset potential at 0.42\u00a0V vs RHE, and an applied bias photon-to-current efficiency of 1.28% for H2 production in 1.0\u00a0M KOH under simulated 1 sun illumination. The impacts of TiO2 NR array outlayer and surface-loaded NiCoP catalyst on interfacial energetics, charge transfer kinetics, and PEC performance of photocathodes are comparatively studied by using a series of reference electrodes. The results indicate that the TiO2 NR array makes a major contribution to the evidently improved PEC activity of Si/CN/TiO2(ALD/NR), and that the NiCoP loaded on the surface of TiO2 NR array greatly enhances the charge transfer efficiency and boosts HER kinetics of the photocathode.",
+    "doi": "10.1016/j.jpowsour.2020.229272",
+    "url": "https://www.semanticscholar.org/paper/ec192dfe65bbe678e427396b14e27e1980a0b61b",
+    "source": "semantic_scholar",
+    "external_id": "ec192dfe65bbe678e427396b14e27e1980a0b61b"
+  },
+  {
+    "title": "Effect of doping TiO2 with alkaline-earth metal ions on its photocatalytic activity",
+    "authors": [
+      "Yuexiang Li",
+      "Shaoqin Peng",
+      "F. Jiang",
+      "Gongxuan Lu",
+      "Shuben Li"
+    ],
+    "year": 2007,
+    "abstract": "T iO 2 photocatalysts doped with alkaline-earth metal ions were prepared by the impregnation and coprecipitation methods. The sample were characterized by XRD, XPS and IR spectroscopy. Their activities were evaluated by the photocatalytic production of hydrogen. The activities of the doped photocatalysts dopended on the size of the dopant ions and the doping method. The optimum molar contents of dopant",
+    "doi": "10.2298/JSC0704393L",
+    "url": "https://www.semanticscholar.org/paper/a9805245954ddf20282d67bf0a0a6e9fcd4dd199",
+    "source": "semantic_scholar",
+    "external_id": "a9805245954ddf20282d67bf0a0a6e9fcd4dd199"
+  },
+  {
+    "title": "Enhanced Alkaline Hydrogen Evolution on Gd1.0/Ndx (x = 0.5, 1.0, 3.0, and 6.0%)-Doped TiO2 Bimetallic Electrocatalysts",
+    "authors": [
+      "M. Alsawat",
+      "N. A. Alshehri",
+      "A. Shaltout",
+      "Sameh I. Ahmed",
+      "Hanan M. O. Al-Malki",
+      "M. Das",
+      "R. Boukherroub",
+      "Mohammed A. Amin",
+      "M. Ibrahim"
+    ],
+    "year": 2023,
+    "abstract": "The work reports a facile synthesis of high thermally stable nanocrystalline anatase TiO2 nanoparticles (NPs) doped with different atomic concentrations (0.5, 1.0, 3.0, and 6.0%) of Gd3+ and Nd3+ ions by a template-free and one-step solvothermal process, using titanium(IV) butoxide as a titanium precursor and dimethyl sulfoxide (DMSO) as a solvent. The structure and morphology of the Gd3+, Nd3+, and 0.5%Gd3+-0.5%Nd3+/doped TiO2 NPs have been characterized by using various analytical techniques. The Gd3+/ and Nd3+/TiO2 molar ratios were found to have a pronounced impact on the crystalline structure, size, and morphology of TiO2 NPs. X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS) studies revealed the proper substitution of Ti4+ by Gd3+ and Nd3+ ions in the TiO2 host lattice. The as-prepared Gdx/TiO2, Ndx/TiO2, and Gd1.0/Ndx/TiO2 bimetallic NPs, x = 0.5, 1.0, 3.0, and 6%, have been investigated as electrocatalysts for hydrogen evolution reaction (HER) in 1.0 M KOH solution using a variety of electrochemical techniques. At any doping percentage, the Gd1.0/Ndx/TiO2 bimetallic NPs showed higher HER catalytic performance than their corresponding counterparts, i.e., Gdx/TiO2 and Ndx/TiO2. Upon increasing the Nd content from 0.5 to 6.0%, the HER catalytic performance of the Gd1.0/Ndx/TiO2 bimetallic NPs was generally enhanced. Among the studied materials, the bimetallic Gd1.0/Nd6.0/TiO2 NPs emerged as the most promising catalyst with an onset potential of \u221222 mV vs. RHE, a Tafel slope of 109 mV dec\u22121, and an exchange current density of 0.72 mA cm\u22122. Such HER electrochemical kinetic parameters are close to those recorded by the commercial Pt/C (onset potential: \u221215 mV, Tafel slope: 106 mV dec\u22121, and exchange current density: 0.80 mA cm\u22122), and also comparable with those measured by the most active electrocatalysts reported in the literature. The synergistic interaction of Gd and Nd is thought to be the major cause of the bimetallic catalyst\u2019s activity.",
+    "doi": "10.3390/catal13081192",
+    "url": "https://www.semanticscholar.org/paper/6addebe710259aa7ddff9fba33cdb634aa67fbe5",
+    "source": "semantic_scholar",
+    "external_id": "6addebe710259aa7ddff9fba33cdb634aa67fbe5"
+  },
+  {
+    "title": "Effect of ionic radius on colossal permittivity properties of (A, Ta) co-doped TiO2 (A= alkaline-earth ions) ceramics",
+    "authors": [
+      "Juan Liu",
+      "Lejiang Wang",
+      "X. Yin",
+      "Q. Yu",
+      "Dong Xu"
+    ],
+    "year": 2020,
+    "abstract": "Abstract (A, B) co-doped TiO2 ceramics attract great interests due to the excellent dielectric properties. In this work, the (A, Ta) co-doped TiO2 ceramics were prepared by a solid state reaction process. The effect of the acceptors ionic radius on the structure and properties of TiO2 ceramics was investigated. According to XRD analysis, the main phase is rutile TiO2 for all samples. Due to the larger ionic radius, it is hard to replace Ti site in TiO6 octahedron. As a result, the content of the secondary phase increased with increasing ionic radius. The dielectric properties were significantly enhanced by co-doping of alkaline-earth ions and tantalum ions, and the best dielectric constant obtained at 3% (Sr, Ta) co-doped compositions, where e\u2019\u00a0=\u00a02.1\u00a0\u00d7\u00a0105, tan\u03b4\u00a0=\u00a00.21. Meanwhile, the XPS analysis suggested that the concentration of the defect dipoles exhibit a maximum in Sr-doped TiO2 ceramics. The larger ionic radius of the acceptors leads to the more stability of the defect structure. However, for Ba ions, the replacement concentration decreased due to the excessive ionic radius, which in turn reduces the defect concentration. This work is meaningful for the further investigations on TiO2-based colossal permittivity materials.",
+    "doi": "10.1016/j.ceramint.2020.01.247",
+    "url": "https://www.semanticscholar.org/paper/ebab99658e82c4ac13e3e85f3ee7b35e84f3bbf4",
+    "source": "semantic_scholar",
+    "external_id": "ebab99658e82c4ac13e3e85f3ee7b35e84f3bbf4"
+  },
+  {
+    "title": "Energetics of CO2 and H2O adsorption on alkaline earth metal doped TiO2.",
+    "authors": [
+      "A. L. D. da Silva",
+      "Lili Wu",
+      "L. Caliman",
+      "R. Castro",
+      "A. Navrotsky",
+      "D. Gouv\u00eaa"
+    ],
+    "year": 2020,
+    "abstract": "The process of CO2 and H2O adsorption on the surface of nano-oxide semiconductors is important in the overall performance of artificial photosynthesis and other applications. In this study, we explored the thermodynamics of CO2 and H2O adsorption on TiO2 as a function of surface chemistry. We applied gas adsorption calorimetry to investigate the energetics of adsorption of those molecules on the surface of anatase nanoparticles. In an attempt to increase TiO2 surface affinity to CO2 and H2O, TiO2 was doped with alkaline earth metals (MgO, CaO, SrO, and BaO) by manipulating the chemical synthesis. Adsorption studies using diffuse reflectance infrared spectroscopy at different temperatures indicate that due to the segregation of alkaline earth metals on the surface of TiO2 nanoparticles, both CO2 and subsequent H2O adsorption amounts could be increased. CO2 adsorbs in two different manners, forming carbonates which can be removed at temperatures lower than 700 \u00b0C, and a more stable linear adsorption that remains even at 700 \u00b0C. Additionally to the surface energetic effects, doping also increased specific surface area, resulting in further improvement in net gas adsorption.",
+    "doi": "10.1039/d0cp01787f",
+    "url": "https://www.semanticscholar.org/paper/a581e8a6a0ce46e6f3183171aad1c1a2bcf37ee8",
+    "source": "semantic_scholar",
+    "external_id": "a581e8a6a0ce46e6f3183171aad1c1a2bcf37ee8"
+  },
+  {
+    "title": "Alkaline-earth-metal-doped TiO2 for enhanced photodegradation and H2 evolution: insights into the mechanisms",
+    "authors": [
+      "Chao Lv",
+      "X. Lan",
+      "Lili Wang",
+      "Qingyu Yu",
+      "Minghui Zhang",
+      "Hualong Sun",
+      "Jinsheng Shi"
+    ],
+    "year": 2019,
+    "abstract": "The doping strategy of TiO2 with an AM (alkali earth metal) for photocatalysis applications has been reported in several literature reports.",
+    "doi": "10.1039/c9cy01687b",
+    "url": "https://www.semanticscholar.org/paper/351a314d36e264f2b87418833bda31a2ce1ad0ea",
+    "source": "semantic_scholar",
+    "external_id": "351a314d36e264f2b87418833bda31a2ce1ad0ea"
+  },
+  {
+    "title": "Lunar-like silicate material forms the Earth quasisatellite (469219) 2016 HO3 Kamo`oalewa",
+    "authors": [
+      "Benjamin N. L. Sharkey",
+      "Vishnu Reddy",
+      "Renu Malhotra",
+      "Audrey Thirouin",
+      "Olga Kuhn",
+      "Albert Conrad",
+      "Barry Rothberg",
+      "Juan A. Sanchez",
+      "David Thompson",
+      "Christian Veillet"
+    ],
+    "year": null,
+    "abstract": "Little is known about Earth quasi-satellites, a class of near-Earth small solar system bodies that orbit the sun but remain close to the Earth, because they are faint and difficult to observe. Here we use the Large Binocular Telescope (LBT) and the Lowell Discovery Telescope (LDT) to conduct a comprehensive physical characterization of quasi-satellite (469219) Kamo`oalewa and assess its affinity with other groups of near-Earth objects. We find that (469219) Kamo`oalewa rotates with a period of 28.3 (+1.8/-1.3) minutes and displays a reddened reflectance spectrum from 0.4-2.2 microns. This spectrum is indicative of a silicate-based composition, but with reddening beyond what is typically seen amongst asteroids in the inner solar system. We compare the spectrum to those of several material analogs and conclude that the best match is with lunar-like silicates. This interpretation implies extensive space weathering and raises the prospect that Kamo`oalewa could comprise lunar material.",
+    "doi": "10.1038/s43247-021-00303-7",
+    "url": "http://arxiv.org/abs/2111.06372v1",
+    "source": "arxiv",
+    "external_id": "2111.06372v1"
+  },
+  {
+    "title": "Atmospheric dynamics of Earth-like tidally locked aquaplanets",
+    "authors": [
+      "Timothy M. Merlis",
+      "Tapio Schneider"
+    ],
+    "year": null,
+    "abstract": "We present simulations of atmospheres of Earth-like aquaplanets that are tidally locked to their star, that is, planets whose orbital period is equal to the rotation period about their spin axis, so that one side always faces the star and the other side is always dark. As extreme cases illustrating the effects of slow and rapid rotation, we consider planets with rotation periods equal to one current Earth year and one current Earth day. The dynamics responsible for the surface climate (e.g., winds, temperature, precipitation) and the general circulation of the atmosphere are discussed in light of existing theories of atmospheric circulations. For example, as expected from the increasing importance of Coriolis accelerations relative to inertial accelerations as the rotation rate increases, the winds are approximately isotropic and divergent at leading order in the slowly rotating atmosphere but are predominantly zonal and rotational in the rapidly rotating atmosphere. Free-atmospheric horizontal temperature variations in the slowly rotating atmosphere are generally weaker than in the rapidly rotating atmosphere. Interestingly, the surface temperature on the night side of the planets does not fall below ~240 K in either the rapidly or slowly rotating atmosphere; that is, heat transport from the day side to the night side of the planets efficiently reduces temperature contrasts in either case. Rotational waves shape the distribution of winds, temperature, and precipitation in the rapidly rotating atmosphere; in the slowly rotating atmosphere, these distributions are controlled by simpler divergent circulations. The results are of interest in the study of tidally locked terrestrial exoplanets and as illustrations of how planetary rotation and the insolation distribution shape climate.",
+    "doi": "10.3894/JAMES.2010.2.13",
+    "url": "http://arxiv.org/abs/1001.5117v1",
+    "source": "arxiv",
+    "external_id": "1001.5117v1"
+  },
+  {
+    "title": "Earth and Terrestrial Planet Formation",
+    "authors": [
+      "Seth A. Jacobson",
+      "Kevin J. Walsh"
+    ],
+    "year": null,
+    "abstract": "The growth and composition of Earth is a direct consequence of planet formation throughout the Solar System. We discuss the known history of the Solar System, the proposed stages of growth and how the early stages of planet formation may be dominated by pebble growth processes. Pebbles are small bodies whose strong interactions with the nebula gas lead to remarkable new accretion mechanisms for the formation of planetesimals and the growth of planetary embryos.   Many of the popular models for the later stages of planet formation are presented. The classical models with the giant planets on fixed orbits are not consistent with the known history of the Solar System, fail to create a high Earth/Mars mass ratio, and, in many cases, are also internally inconsistent. The successful Grand Tack model creates a small Mars, a wet Earth, a realistic asteroid belt and the mass-orbit structure of the terrestrial planets.   In the Grand Tack scenario, growth curves for Earth most closely match a Weibull model. The feeding zones, which determine the compositions of Earth and Venus follow a particular pattern determined by Jupiter, while the feeding zones of Mars and Theia, the last giant impactor on Earth, appear to randomly sample the terrestrial disk. The late accreted mass samples the disk nearly evenly.",
+    "doi": "10.1002/9781118860359.ch3",
+    "url": "http://arxiv.org/abs/1502.03852v1",
+    "source": "arxiv",
+    "external_id": "1502.03852v1"
+  },
+  {
+    "title": "The structure and energetics of $^3$He and $^4$He nanodroplets doped with alkaline earth atoms",
+    "authors": [
+      "A. Hernando",
+      "R. Mayol",
+      "M. Pi",
+      "M. Barranco",
+      "F. Ancilotto",
+      "O. B\u00fcnermann",
+      "F. Stienkemeier"
+    ],
+    "year": null,
+    "abstract": "We present systematic results, based on density functional calculations, for the structure and energetics of $^3$He and $^4$He nanodroplets doped with alkaline earth atoms. We predict that alkaline earth atoms from Mg to Ba go to the center of $^3$He drops, whereas Ca, Sr, and Ba reside in a deep dimple at the surface of $^4$He drops, and Mg is at their center. For Ca and Sr, the structure of the dimples is shown to be very sensitive to the He-alkaline earth pair potentials used in the calculations. The $5s5p\\leftarrow5s^2$ transition of strontium atoms attached to helium nanodroplets of either isotope has been probed in absorption experiments. The spectra show that strontium is solvated inside $^3$He nanodroplets, supporting the calculations. In the light of our findings, we emphasize the relevance of the heavier alkaline earth atoms for analyzing mixed $^3$He-$^4$He nanodroplets, and in particular, we suggest their use to experimentally probe the $^3$He-$^4$He interface.",
+    "doi": "10.1021/jp0701385",
+    "url": "http://arxiv.org/abs/0705.1090v1",
+    "source": "arxiv",
+    "external_id": "0705.1090v1"
+  },
+  {
+    "title": "The Formation and Dynamics of Super-Earth Planets",
+    "authors": [
+      "Nader Haghighipour"
+    ],
+    "year": null,
+    "abstract": "Super-Earths, objects slightly larger than Earth and slightly smaller than Uranus, have found a special place in exoplanetary science. As a new class of planetary bodies, these objects have challenged models of planet formation at both ends of the spectrum and have triggered a great deal of research on the composition and interior dynamics of rocky planets in connection to their masses and radii. Being relatively easier to detect than an Earth-sized planet at 1 AU around a G star, super-Earths have become the focus of worldwide observational campaigns to search for habitable planets. With a range of masses that allows these objects to retain moderate atmospheres and perhaps even plate tectonics, super-Earths may be habitable if they maintain long-term orbits in the habitable zones of their host stars. Given that in the past two years a few such potentially habitable super-Earths have in fact been discovered, it is necessary to develop a deep understanding of the formation and dynamical evolution of these objects. This article reviews the current state of research on the formation of super-Earths and discusses different models of their formation and dynamical evolution.",
+    "doi": "10.1146/annurev-earth-042711-105340",
+    "url": "http://arxiv.org/abs/1306.5567v1",
+    "source": "arxiv",
+    "external_id": "1306.5567v1"
+  },
+  {
+    "title": "An experimental and theoretical investigation of HCN production in the Hadean Earth atmosphere",
+    "authors": [
+      "Ben K. D. Pearce",
+      "Chao He",
+      "Sarah M. H\u00f6rst"
+    ],
+    "year": null,
+    "abstract": "A critical early stage for the origin of life on Earth may have involved the production of hydrogen cyanide (HCN) in a reducing, predominantly H$_2$ atmosphere. HCN is crucial for the origin of life as it is a possible precursor to several biomolecules that make up RNA and proteins including nucleobases, nucleotides, amino acids, and ribose. In this work, we perform an in depth experimental and theoretical investigation of HCN production in reducing atmospheric conditions (89-95% H$_2$) possibly representing the earliest stages of the Hadean eon, ~4.5-4.3 billion years ago. We make use of cold plasma discharges - a laboratory analog to shortwave UV radiation - to simulate HCN production in the upper layers of the atmosphere for CH$_4$ abundances ranging from 0.1-6.5%. We then combine experimental mass spectrum measurements with our theoretical plasma models to estimate the HCN concentrations produced in our experiments. We find that upper atmospheric HCN production scales linearly with CH$_4$ abundance with the relation [HCN] = 0.13 $\\pm$ 0.01[CH$_4$]. Concentrations of HCN near the surface of the Hadean Earth are expected to be about 2-3 orders of magnitude lower. The addition of 1% water to our experiments results in a ~50% reduction in HCN production. We find that four reactions are primarily responsible for HCN production in our experiments: (i) $^4$N + CH$_3$ -&gt; H$_2$CN + H -&gt; HCN + H$_2$, (ii) $^4$N + CH -&gt; CN + H followed by CN + CH$_4$ -&gt; HCN + CH$_3$, (iii) C$_2$H$_4$ + $^4$N -&gt; HCN + CH$_3$, and (iv) $^4$N + $^3$CH$_2$ -&gt; HCN + H. The most prebiotically favorable Hadean atmosphere would have been very rich in CH$_4$ (&gt; 5%), and as a result of greenhouse effects the surface would be likely very hot. In such a prebiotic scenario, it may have been important to incorporate HCN into organic hazes that could later release biomolecules and precursors into the first ponds.",
+    "doi": "10.1021/acsearthspacechem.2c00138",
+    "url": "http://arxiv.org/abs/2209.09257v1",
+    "source": "arxiv",
+    "external_id": "2209.09257v1"
+  },
+  {
+    "title": "The Search for Extrasolar Earth-like planets",
+    "authors": [
+      "S. Seager"
+    ],
+    "year": null,
+    "abstract": "The search for extrasolar Earth-like planets is underway. Over 100 extrasolar giant planets are known to orbit nearby sun-like stars, including several in multiple-planet systems. These planetary systems are stepping stones for the search for Earth-like planets; the technology development, observational strategies, and science results can all be applied to Earth-like planets. Stars much less massive than the sun the most common stars in our Galaxy are being monitored for the gravitational influence of Earth-like planets. Although Earth-like planets orbiting sun-like stars are much more difficult to detect, space missions are being built to detect them indirectly due to their effects on the parent star and to quantify fundamental factors such as terrestrial planet frequency, size distribution, and mass distribution. Extremely ambitious space programs are being developed to directly detect Earth-like planets orbiting sun-like stars, and must tackle the immense technological challenge of blocking out the light of the parent star, which is brighter than the planet by six to ten orders of magnitude. Direct detection of radiation from the planet is necessary for the definitive goal of the search for Earth-like planets: the study of atmospheric spectral signatures for signs of severe disequilibrium chemistry that could be indicative of biological activity. In addition to technological development, a growing flurry of scientific activity has begun to: understand terrestrial planet formation and terrestrial planet frequency; model terrestrial-like planet atmospheres and evolution; articulate the biological signatures of our own Earth; and even to study Earth as an extrasolar planet by observation and analysis of the spatially unresolved Earth.",
+    "doi": "10.1016/S0012-821X(02)01151-2",
+    "url": "http://arxiv.org/abs/astro-ph/0305337v1",
+    "source": "arxiv",
+    "external_id": "astro-ph/0305337v1"
+  },
+  {
+    "title": "Geo-neutrinos: a new probe of Earth's interior",
+    "authors": [
+      "Gianni Fiorentini",
+      "Marcello Lissia",
+      "Fabio Mantovani",
+      "Riccardo Vannucci"
+    ],
+    "year": null,
+    "abstract": "In preparation to the experimental results which will be available in the future, we study geo-neutrino production for different models of mantle convection and composition. By using global mass balance for the Bulk Silicate Earth, the predicted flux contribution from distant sources in the crust and in the mantle is fixed within a total uncertainty of +-15%. We also discuss regional effects, provided by subducting slabs or plumes near the detector. In four years a five-kton detector operating at a site relatively far from nuclear power plants can achieve measurements of the geo-neutrino signal accurate to within +-5%. It will provide a crucial test of the Bulk Silicate Earth and a direct estimate of the radiogenic contribution to terrestrial heat.",
+    "doi": "10.1016/j.epsl.2005.06.061",
+    "url": "http://arxiv.org/abs/physics/0508019v1",
+    "source": "arxiv",
+    "external_id": "physics/0508019v1"
+  },
+  {
+    "title": "Recent Advances in Electrocatalytic Hydrogen Evolution Using Nanoparticles",
+    "authors": [
+      "Jing Zhu",
+      "Liangsheng Hu",
+      "Pengxiang Zhao",
+      "Lawrence Yoon Suk Lee",
+      "Kwok\u2010Yin Wong"
+    ],
+    "year": 2019,
+    "abstract": "Hydrogen fuel is considered as the cleanest renewable resource and the primary alternative to fossil fuels for future energy supply. Sustainable hydrogen generation is the major prerequisite to realize future hydrogen economy. The electrocatalytic hydrogen evolution reaction (HER), as the vital step of water electrolysis to H<sub>2</sub> production, has been the subject of extensive study over the past decades. In this comprehensive review, we first summarize the fundamentals of HER and review the recent state-of-the-art advances in the low-cost and high-performance catalysts based on noble and non-noble metals, as well as metal-free HER electrocatalysts. We systemically discuss the insights into the relationship among the catalytic activity, morphology, structure, composition, and synthetic method. Strategies for developing an effective catalyst, including increasing the intrinsic activity of active sites and/or increasing the number of active sites, are summarized and highlighted. Finally, the challenges, perspectives, and research directions of HER electrocatalysis are featured.",
+    "doi": "10.1021/acs.chemrev.9b00248",
+    "url": "https://openalex.org/W2982516344",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2982516344"
+  },
+  {
+    "title": "Light-Driven Heterogeneous Reduction of Carbon Dioxide: Photocatalysts and Photoelectrodes",
+    "authors": [
+      "J. L. White",
+      "Maor F. Baruch",
+      "James E. Pander",
+      "Yuan Hu",
+      "Ivy C. Fortmeyer",
+      "James Eujin Park",
+      "Tao Zhang",
+      "Kuo Liao",
+      "Jing Gu",
+      "Yong Yan",
+      "Travis W. Shaw",
+      "Esta Abelev",
+      "Andrew B. Bocarsly"
+    ],
+    "year": 2015,
+    "abstract": "A thorough review article on work to publication date on the photocatalysis and photoelectrochemistry of CO<sub>2</sub> reduction chemistry. This work also contains an up to date tutorial on photoelectrochemistry in general.",
+    "doi": "10.1021/acs.chemrev.5b00370",
+    "url": "https://openalex.org/W2189000696",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2189000696"
+  },
+  {
+    "title": "Nd-Gd\u2013Platinum doped TiO2 nanotube arrays catalyst for water splitting in Alkaline Medium",
+    "authors": [
+      "Hessah E. Alanazi",
+      "Khadijah M. Emran"
+    ],
+    "year": 2023,
+    "abstract": "The utilization of a highly efficient electrocatalyst for the hydrogen evolution reaction (HER) plays an important role in energy conversion in regard to the development of hydrogen-based clean energy sources. The HER in alkaline media by co-doped lanthanide-platinum TiO2 Nanotube Arrays (TNTA) catalyst electrodes has yet to be studied. Here, we report the robust fabrication of an electrocatalyst and its prominent performance in catalyzing the HER. The catalyst electrode consisted of TiO2 nanotube arrays doped with rare earth metals (neodymium (Nd) and gadolinium (Gd)) and a small loading of Pt metal as double-layer nanotube arrays. This material was obtained by a two-step electrochemical anodization method using a small amount of fluoride salt and a short time of mechanical growth. Additionally, an in situ doping strategy that utilized a hydrothermal treatment for the ternary and quaternary ions of Nd, Gd and Pt was performed, while retaining the anatase phase. The Nd-Gd-TNTA catalyst electrode produced a current density of \u221247.522 \u00b5A cm\u22122 and exhibited a low activation energy of approximately 2.15 kJ/mol. The Nd-Gd-Pt-TNTA catalyst electrode is the best candidate for supporting the HER and advancing water splitting techniques for high-purity hydrogen production in alkaline media.",
+    "doi": "10.1016/j.ijoes.2023.100112",
+    "url": "https://openalex.org/W4328108239",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W4328108239"
+  },
+  {
+    "title": "Challenges in the Greener Production of Formates/Formic Acid, Methanol, and DME by Heterogeneously Catalyzed CO<sub>2</sub>Hydrogenation Processes",
+    "authors": [
+      "Andrea \u00c1lvarez Moreno",
+      "Atul Bansode",
+      "Atsushi Urakawa",
+      "Anastasiya Bavykina",
+      "Tim A. Wezendonk",
+      "Michiel Makkee",
+      "Jorge Gasc\u00f3n",
+      "Freek Kapteijn"
+    ],
+    "year": 2017,
+    "abstract": "The recent advances in the development of heterogeneous catalysts and processes for the direct hydrogenation of CO<sub>2</sub> to formate/formic acid, methanol, and dimethyl ether are thoroughly reviewed, with special emphasis on thermodynamics and catalyst design considerations. After introducing the main motivation for the development of such processes, we first summarize the most important aspects of CO<sub>2</sub> capture and green routes to produce H<sub>2</sub>. Once the scene in terms of feedstocks is introduced, we carefully summarize the state of the art in the development of heterogeneous catalysts for these important hydrogenation reactions. Finally, in an attempt to give an order of magnitude regarding CO<sub>2</sub> valorization, we critically assess economical aspects of the production of methanol and DME and outline future research and development directions.",
+    "doi": "10.1021/acs.chemrev.6b00816",
+    "url": "https://openalex.org/W2725648806",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2725648806"
+  },
+  {
+    "title": "Parameters affecting the photocatalytic degradation of dyes using TiO2: a review",
+    "authors": [
+      "Khan Mamun Reza",
+      "Asw Kurny",
+      "Fahmida Gulshan"
+    ],
+    "year": 2015,
+    "abstract": "Traditional chemical, physical and biological processes for treating wastewater containing textile dye have such disadvantages as high cost, high energy requirement and generation of secondary pollution during treatment process. The advanced oxidation processes technology has been attracting growing attention for the decomposition of organic dyes. Such processes are based on the light-enhanced generation of highly reactive hydroxyl radicals, which oxidize the organic matter in solution and convert it completely into water, CO2 and inorganic compounds. In this presentation, the photocatalytic degradation of dyes in aqueous solution using TiO2 as photocatalyst under solar and UV irradiation has been reviewed. It is observed that the degradation of dyes depends on several parameters such as pH, catalyst concentration, substrate concentration and the presence of oxidants. Reaction temperature and the intensity of light also affect the degradation of dyes. Particle size, BET-surface area and different mineral forms of TiO2 also have influence on the degradation rate.",
+    "doi": "10.1007/s13201-015-0367-y",
+    "url": "https://openalex.org/W2283983369",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2283983369"
+  },
+  {
+    "title": "Hydrogen storage mechanism in transition metal decorated graphene oxide: The symbiotic effect of oxygen groups and high layer spacing",
+    "authors": [
+      "P. Pei",
+      "M. Whitwick",
+      "Sahida Kureshi",
+      "M. Cannon",
+      "G. Quan",
+      "E. Kjeang"
+    ],
+    "year": 2020,
+    "abstract": "Abstract Transition metal nanoparticle decoration is widely used to enhance the hydrogen storage properties of carbon materials. However, little efforts have been devoted to unveil structural interaction between nanoparticles and substrate and understand the underlying kinetic mechanism for hydrogen sorption. In this work, a suite of TiO2 nanoparticles decorated graphene oxide (GO) composites is fabricated and characterized to determine the interactions between material structure and hydrogen storage kinetics. EELS and XPS results show that interactions between nanoparticles and GO cause changes of the chemical states of C\u2013O, C O and C\u2013OH groups; furthermore, reactions of C\u2013OH, HO\u2013C O and C\u2013O\u2013C groups with TiO2 nanoparticles create C\u2013Ti and Ti\u2013O\u2013C bonding. Decoration of TiO2 nanoparticles improves the capacity of GO by 2.3\u00d7, and 80% of the adsorption is reversible. By means of semi-empirical kinetic analysis, it is determined that hydrogen adsorption is controlled by two-dimensional diffusion regardless of layer spacing; while desorption is controlled by multiple diffusion processes and is sensitive to layer spacing. Collectively, these new findings deepen the understanding of transition metal nanoparticles decorated GO materials in the aspects of nanoparticle incorporation and hydrogen storage kinetic mechanism. In particular, oxygen groups enhance nanoparticle decoration, while high layer spacing improves desorption kinetics and reversibility.",
+    "doi": "10.1016/j.ijhydene.2019.12.095",
+    "url": "https://www.semanticscholar.org/paper/42a8f859dad0721f2caf4d4350e83c95b39fe879",
+    "source": "semantic_scholar",
+    "external_id": "42a8f859dad0721f2caf4d4350e83c95b39fe879"
+  },
+  {
+    "title": "Reversible Hydrogen Storage in Metal-Decorated Honeycomb Borophene Oxide",
+    "authors": [
+      "P. Habibi",
+      "T. Vlugt",
+      "P. Dey",
+      "O. Moultos"
+    ],
+    "year": 2021,
+    "abstract": "Two-dimensional (2D) boron-based materials are receiving much attention as H2 storage media due to the low atomic mass of boron and the stability of decorating alkali metals on the surface, which enhance interactions with H2. This work investigates the suitability of Li, Na, and K decorations on 2D honeycomb borophene oxide (B2O) for H2 storage, using dispersion corrected density functional theory (DFT-D2). A high theoretical gravimetric density of 8.3 wt % H2 is achieved for the Li-decorated B2O structure. At saturation, each Li binds to two H2 with an average binding energy of \u22120.24 eV/H2. Born\u2013Oppenheimer molecular dynamics simulations at temperatures of 100, 300, and 500 K demonstrate the stability of the Li-decorated structure and the H2 desorption behavior at different temperatures. Our findings indicate that Li-decorated 2D B2O is a promising material for reversible H2 storage and recommend experimental investigation of 2D B2O as a potential H2 storage medium.",
+    "doi": "10.1021/acsami.1c09865",
+    "url": "https://www.semanticscholar.org/paper/665719d2311c0acc83ed8fba3340c46da8e445d6",
+    "source": "semantic_scholar",
+    "external_id": "665719d2311c0acc83ed8fba3340c46da8e445d6"
+  },
+  {
+    "title": "High-capacity, reversible hydrogen storage using H--conducting solid electrolytes.",
+    "authors": [
+      "Takashi Hirose",
+      "Naoki Matsui",
+      "Takashi Itoh",
+      "Y. Hinuma",
+      "Kazutaka Ikeda",
+      "Kazuma Gotoh",
+      "Guangzhong Jiang",
+      "Kota Suzuki",
+      "M. Hirayama",
+      "Ryoji Kanno"
+    ],
+    "year": 2025,
+    "abstract": "Hydrogen absorption and desorption in solids are pivotal reactions involved in batteries and hydrogen storage devices. However, conventional thermodynamic and electrochemical hydrogen storage using high-capacity materials suffers from high hydrogen-desorption temperatures and instability of electrolytes. In this work, we explored electrochemical hydride ion (H-)-driven hydrogen storage and developed a solid electrolyte, anti-\u03b1-AgI-type Ba0.5Ca0.35Na0.15H1.85, which exhibits excellent H- conductivity and electrochemical stability. This electrolyte is compatible with several metal-hydrogen electrodes, such as titanim hydride and magnesium hydride (MgH2), allowing for high-capacity, reversible hydrogen storage at low temperatures. Specifically, Mg-H2 cells operating as hydrogen storage devices (Mg + H2 [Formula: see text] MgH2) achieved a reversible capacity of 2030 milliampere hours per gram at 90\u00b0C, offering safe and efficient hydrogen-electricity conversion and hydrogen storage devices.",
+    "doi": "10.1126/science.adw1996",
+    "url": "https://www.semanticscholar.org/paper/64a739b424fa69a414ef924e00a9cdc7b17d7f23",
+    "source": "semantic_scholar",
+    "external_id": "64a739b424fa69a414ef924e00a9cdc7b17d7f23"
+  },
+  {
+    "title": "Structure, microstructure and hydrogen storage properties of melt-spun V55Ti21Cr17Fe7 and V55Ti21Mn17Fe7",
+    "authors": [
+      "A. Ioannidou",
+      "S. S. Makridis",
+      "M. Gjoka",
+      "E. I. Gkanas",
+      "A. K. Stubos",
+      "N. Lupu",
+      "D. Niarchos"
+    ],
+    "year": null,
+    "abstract": "The hydrogen sorption performance of V55Ti21Cr17Fe7 and V55Ti21Mn17Fe7 alloys and their ribbons were evaluated by pressure composition temperature tests. Their hydrogen absorption kinetic properties were studied through hydrogen absorption curves. The crystallographic structures and microstructure of these alloys and ribbons before hydrogen absorption and after hydrogen desorption PCT tests were identified by Xray diffraction and Scanning electron microscopy analysis, respectively. Hydrogen storage characteristics of such materials were investigated by volumetric method using Sieverts type apparatus and gravimetric method with suspension balance.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1303.5112v1",
+    "source": "arxiv",
+    "external_id": "1303.5112v1"
+  },
+  {
+    "title": "Polymer Stable Magnesium Nanocomposites Prepared by Laser Ablation for Efficient Hydrogen Storage",
+    "authors": [
+      "S. S. Makridis",
+      "E. Gkanas",
+      "G. Panagakos",
+      "E. S. Kikkinides",
+      "A. K. Stubos",
+      "P. Wagener",
+      "S. Barcikowski"
+    ],
+    "year": null,
+    "abstract": "Hydrogen is a promising alternative energy carrier that can potentially facilitate the transition from fossil fuels to sources of clean energy because of its prominent advantages such as high energy density (142 MJ per kg), great variety of potential sources (for example water, biomass, organic matter), and low environmental impact (water is the sole combustion product). However, due to its light weight, the efficient storage of hydrogen is still an issue investigated intensely. Various solid media have been considered in that respect among which magnesium hydride stands out as a candidate offering distinct advantages. Recent theoretical work indicates that MgH2 becomes less thermodynamically stable as particle diameter decreases below 2 nm. Our DFT (density functional theory) modeling studies have shown that the smallest enthalpy change, corresponding to 2 unit-cell thickness (1.6 \u00c5 Mg/3.0\u00c5 MgH2) of the film, is 57.7 kJ/molMg. This enthalpy change is over 10 kJ per molMg smaller than that of the bulk. It is important to note that the range of enthalpy change for systems that are suitable for mobile storage applications is 15 to 24 kJ permolH at 298 K. The important key for the development of air/stable Mg/nanocrystals is the use of PMMA (polymethylmethacrylate) as an encapsulation agent. In our work we use laser ablation, a non-electrochemical method, for producing well dispersed nanoparticles without the presence of any long range aggregation. The observed improved hydrogenation characteristics of the polymer/stable Mg-nanoparticles are associated to the preparation procedure and in any case the polymer laser ablation is a new approach for the production of air/protected and inexpensive Mg/nanoparticles.",
+    "doi": "10.1016/j.ijhydene.2013.04.031",
+    "url": "http://arxiv.org/abs/1304.1959v2",
+    "source": "arxiv",
+    "external_id": "1304.1959v2"
+  },
+  {
+    "title": "Global existence for a hydrogen storage model with full energy balance",
+    "authors": [
+      "Elena Bonetti",
+      "Pierluigi Colli",
+      "Philippe Lauren\u00e7ot"
+    ],
+    "year": null,
+    "abstract": "A thermo-mechanical model describing hydrogen storage by use of metal hydrides has been recently proposed in a paper by Bonetti, Fr\u00e9mond and Lexcellent. It describes the formation of hydrides using the phase transition approach. By virtue of the laws of continuum thermo-mechanics, the model leads to a phase transition problem in terms of three state variables: the temperature, the phase parameter representing the fraction of one solid phase, and the pressure, and is derived within a generalization of the principle of virtual powers proposed by Fr\u00e9mond accounting for micro-forces, responsible for the phase transition, in the whole energy balance of the system. Three coupled nonlinear partial differential equations combined with initial and boundary conditions have to be solved. The main difficulty in investigating the resulting system of partial differential equations relies on the presence of the squared time derivative of the order parameter in the energy balance equation. Here, the global existence of a solution to the full problem is proved by exploiting known and sharp estimates on parabolic equations with right hand side in L^1. Some complementary results on stability and steady state solutions are also given.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1108.1332v1",
+    "source": "arxiv",
+    "external_id": "1108.1332v1"
+  },
+  {
+    "title": "ARPES Studies of Two-Dimensional Electron Gases at Transition Metal Oxide Surfaces",
+    "authors": [
+      "S. McKeown Walker",
+      "F. Y. Bruno",
+      "F. Baumberger"
+    ],
+    "year": null,
+    "abstract": "High mobility two-dimensional electron gases (2DEGs) underpin today's silicon based devices and are of fundamental importance for the emerging field of oxide electronics. Such 2DEGs are usually created by engineering band offsets and charge transfer at heterointerfaces. However, in 2011 it was shown that highly itinerant 2DEGs can also be induced at bare surfaces of different transition metal oxides where they are far more accessible to high resolution angle resolved photoemission (ARPES) experiments. Here we review work from this nascent field which has led to a systematic understanding of the subband structure arising from quantum confinement of highly anisotropic transition metal d-states along different crystallographic directions. We further discuss the role of different surface preparations and the origin of surface 2DEGs, the understanding of which has permitted control over 2DEG carrier densities. Finally, we discuss signatures of strong many-body interactions and how spectroscopic data from surface 2DEGs may be related to the transport properties of interface 2DEGs in the same host materials.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1612.03571v1",
+    "source": "arxiv",
+    "external_id": "1612.03571v1"
+  },
+  {
+    "title": "Potential reversible hydrogen storage in Li-decorated carbon allotrope PAI-Graphene: A first-principles study",
+    "authors": [
+      "Vikram Mahamiya",
+      "Alok Shukla",
+      "Brahmananda Chakraborty"
+    ],
+    "year": null,
+    "abstract": "Two-dimensional porous carbon nanomaterials are proven to be promising hydrogen storage substrates as they possess high surface area, large number of active sites, low molecular mass, and hydrogen molecules can be adsorbed on both sides of these materials. By performing first-principles density functional theory-based calculations, we report ultrahigh reversible hydrogen uptake in lithium decorated 2D carbon allotrope PAI-graphene, which is formed of a regular pattern of polymerized as-indacenes (PAI). We found that a single unit cell of PAI-graphene can be decorated by 8 Li atoms, in which each Li atom can reversibly adsorb 4 hydrogen molecules, leading to 15.7 % of H uptake, remarkably higher than the DOE demand of 6.5 %. Li atom donates its valence 2s-electron to PAI-graphene and gets ionized. The adsorption energies of the various H2 attached to Li-atom are found to be suitable for reversible use during practical applications. Hydrogen molecules get attached to the ionized metal atom by electrostatic interactions. An energy barrier of 1.48 eV is present for the diffusion of Li atoms between the two most stable adsorption sites which justifies the absence of the clustering of Li atoms.",
+    "doi": "10.1016/j.ijhydene.2022.11.016",
+    "url": "http://arxiv.org/abs/2312.01144v1",
+    "source": "arxiv",
+    "external_id": "2312.01144v1"
+  },
+  {
+    "title": "Effect of activation procedure on Sm-Co-Fe-Zr-B compound for low temperature efficient hydrogen storage",
+    "authors": [
+      "S. S. Makridis",
+      "Ch. N. Christodoulou",
+      "E. S. Kikkinides",
+      "A. K. Stubos"
+    ],
+    "year": null,
+    "abstract": "The present research work is focused on the effect of activation procedure on the hydrogen absorption-desorption properties of new rare earth transition metal compound based on Sm(Co0.6Fe0.2Zr0.16B0.04)7.5 composition. Crystal structure and composition is always connected to the maximum capacity of the intermetallic hydrides. For composite materials the thermodynamic properties of hydrogenation &amp; dehydrogenation procedure are mostly explained through microstructure-microchemistry characteristics. Efficient hydrogen storage is direct connected to the desorbed hydrogen amount. The as hydrogenated material Sm(Co0.6Fe0.2Zr0.16B0.04)7.5 seems to have in the desorption a pressure plateau below the atmospheric pressure at room temperature while the absorbed hydrogen almost remains in the material having capacity of ~0.8 wt. % at 0.1 MPa - 30 oC. After the proper activation procedure, the hydrogenated material desorbs very high amount of hydrogen ~1.9 wt. % at 0.1 MPa - 100 oC. Subsequently, the treatment of the composite materials before hydrogenation &amp; dehydrogenation procedures could play a crucial role on the efficiency.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1304.1901v1",
+    "source": "arxiv",
+    "external_id": "1304.1901v1"
+  },
+  {
+    "title": "A generative machine learning model for designing metal hydrides applied to hydrogen storage",
+    "authors": [
+      "Xiyuan Liu",
+      "Christian Hacker",
+      "Shengnian Wang",
+      "Yuhua Duan"
+    ],
+    "year": null,
+    "abstract": "Developing new metal hydrides is a critical step toward efficient hydrogen storage in carbon-neutral energy systems. However, existing materials databases, such as the Materials Project, contain a limited number of well-characterized hydrides, which constrains the discovery of optimal candidates. This work presents a framework that integrates causal discovery with a lightweight generative machine learning model to generate novel metal hydride candidates that may not exist in current databases. Using a dataset of 450 samples (270 training, 90 validation, and 90 testing), the model generates 1,000 candidates. After ranking and filtering, six previously unreported chemical formulas and crystal structures are identified, four of which are validated by density functional theory simulations and show strong potential for future experimental investigation. Overall, the proposed framework provides a scalable and time-efficient approach for expanding hydrogen storage datasets and accelerating materials discovery.",
+    "doi": "10.1016/j.ijhydene.2026.153744",
+    "url": "http://arxiv.org/abs/2601.20892v1",
+    "source": "arxiv",
+    "external_id": "2601.20892v1"
+  },
+  {
+    "title": "MgH2 nanoparticles confined in reduced graphene oxide pillared with organosilica: a novel type of hydrogen storage material",
+    "authors": [
+      "Feng Yan",
+      "Estela Moreton Alfons\u00edn",
+      "Peter Ngene",
+      "Sytze de Graaf",
+      "Oreste De Luca",
+      "Huatang Cao",
+      "Konstantinos Spyrou",
+      "Liqiang Lu",
+      "Eleni Thomou",
+      "Yutao Pei",
+      "Bart J. Kooi",
+      "Dimitrios P. Gournis",
+      "Petra E. de Jongh",
+      "Petra Rudolf"
+    ],
+    "year": null,
+    "abstract": "Hydrogen is a promising energy carrier that can push forward the energy transition because of its high energy density (142 MJ kg-1), variety of potential sources, low weight and low environmental impact, but its storage for automotive applications remains a formidable challenge. MgH2, with its high gravimetric and volumetric density, presents a compelling platform for hydrogen storage; however, its utilization is hindered by the sluggish kinetics of hydrogen uptake/release and high temperature operation. Herein we show that a novel layered heterostructure of reduced graphene oxide and organosilica with high specific surface area and narrow pore size distribution can serve as a scaffold to host MgH2 nanoparticles with a narrow diameter distribution around ~2.5 nm and superior hydrogen storage properties to bulk MgH2. Desorption studies showed that hydrogen release starts at 50 \u00b0C, with a maximum at 348 \u00b0C and kinetics dependent on particle size. Reversibility tests demonstrated that the dehydrogenation kinetics and re-hydrogenation capacity of the system remains stable at 1.62 wt.% over four cycles at 200 \u00b0C. Our results prove that MgH2 confinement in a nanoporous scaffold is an efficient way to constrain the size of the hydride particles, avoid aggregation and improve kinetics for hydrogen release and recharging.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2308.10137v1",
+    "source": "arxiv",
+    "external_id": "2308.10137v1"
+  },
+  {
+    "title": "Synthesis of Sintering-Resistant Sorbents for CO<sub>2</sub> Capture",
+    "authors": [
+      "Wenqiang Liu",
+      "Bo Feng",
+      "Yueqin Wu",
+      "Geoff Wang",
+      "John C. Barry",
+      "Jo\u00e3o C. Diniz da Costa"
+    ],
+    "year": 2010,
+    "abstract": "Sorbents for high temperature CO2 capture are under intensive development owing to their potential applications in advanced zero emission power, sorption-enhanced steam methane reforming for hydrogen production and energy storage systems in chemical heat pumps. One of the challenges in the development is the prevention of sintering of the sorbent (normally a calcium oxide derivative) which causes the CO2 capture capacity of the material to deteriorate rapidly after a few cycles of utilization. Here we show that a simple wet mixing method can produce sintering-resistant sorbents from calcium and magnesium salts of d-gluconic acid. It was found that calcium oxide was well distributed in the sorbents with metal oxide nanoparticles on the surface acting as physical barriers, and the CO2 capture capacity of the sorbents was largely maintained over multiple cycles of utilization. This method was also applied to other organometallic salts of calcium and magnesium/aluminum and the produced sorbents showed similarly high reversibility.",
+    "doi": "10.1021/es903436v",
+    "url": "https://openalex.org/W2016490797",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2016490797"
+  },
+  {
+    "title": "Pseudocapacitive oxide materials for high-rate electrochemical energy storage",
+    "authors": [
+      "Veronica Augustyn",
+      "Patrice Simon",
+      "Bruce Dunn"
+    ],
+    "year": 2014,
+    "abstract": "Electrochemical energy storage technology is based on devices capable of exhibiting high energy density (batteries) or high power density (electrochemical capacitors). There is a growing need, for current and near-future applications, where both high energy and high power densities are required in the same material. Pseudocapacitance, a faradaic process involving surface or near surface redox reactions, offers a means of achieving high energy density at high charge\u2013discharge rates. Here, we focus on the pseudocapacitive properties of transition metal oxides. First, we introduce pseudocapacitance and describe its electrochemical features. Then, we review the most relevant pseudocapacitive materials in aqueous and non-aqueous electrolytes. The major challenges for pseudocapacitive materials along with a future outlook are detailed at the end.",
+    "doi": "10.1039/c3ee44164d",
+    "url": "https://openalex.org/W2162677524",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2162677524"
+  },
+  {
+    "title": "30 Years of Lithium\u2010Ion Batteries",
+    "authors": [
+      "Matthew Li",
+      "Jun L\u00fc",
+      "Zhongwei Chen",
+      "Khalil Amine"
+    ],
+    "year": 2018,
+    "abstract": "Over the past 30 years, significant commercial and academic progress has been made on Li-based battery technologies. From the early Li-metal anode iterations to the current commercial Li-ion batteries (LIBs), the story of the Li-based battery is full of breakthroughs and back tracing steps. This review will discuss the main roles of material science in the development of LIBs. As LIB research progresses and the materials of interest change, different emphases on the different subdisciplines of material science are placed. Early works on LIBs focus more on solid state physics whereas near the end of the 20th century, researchers began to focus more on the morphological aspects (surface coating, porosity, size, and shape) of electrode materials. While it is easy to point out which specific cathode and anode materials are currently good candidates for the next-generation of batteries, it is difficult to explain exactly why those are chosen. In this review, for the reader a complete developmental story of LIB should be clearly drawn, along with an explanation of the reasons responsible for the various technological shifts. The review will end with a statement of caution for the current modern battery research along with a brief discussion on beyond lithium-ion battery chemistries.",
+    "doi": "10.1002/adma.201800561",
+    "url": "https://openalex.org/W2808025896",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2808025896"
+  },
+  {
+    "title": "Single Walled Carbon Nanotube\u2013Metal Oxide Nanocomposites for Reversible and Reproducible Storage of Hydrogen",
+    "authors": [
+      "D. Silambarasan",
+      "Surya Velappa Jayaraman",
+      "V. Vasu",
+      "K. Iyakutti"
+    ],
+    "year": 2013,
+    "abstract": "Composite material consisting of single walled carbon nanotubes (SWCNTs) and metal oxide nanoparticles has been prepared and their hydrogen storage performance is evaluated. Metal oxides such as tin oxide (SnO2), tungsten trioxide (WO3), and titanium dioxide (TiO2) are chosen as the composite constituents. The composites have been prepared by means of ultrasonication. Then, the composite samples are deposited on alumina substrates and at 100 \u00b0C in a Sieverts-like hydrogenation setup. Characterization techniques such as transmission electron microscopy (TEM), Raman spectroscopy, scanning electron microscopy (SEM), powder X-ray diffraction (XRD), Fourier transform infrared (FTIR) spectroscopy, energy dispersive spectroscopy (EDS), CHN elemental analysis, and thermogravimetric (TG) measurements are used to analyze the samples at various stages of experiments. Hydrogen storage capacity of the composites namely, SWCNT-SnO2, SWCNT-WO3, and SWCNT-TiO2 are found to be 1.1, 0.9, and 1.3 wt %, respectively. Hydrogenated composite samples are stable at room temperature and desorption of hydrogen is found to be 100% reversible. Desorption temperature ranges and binding energy ranges of hydrogen have been measured from the desorption studies. The hydrogenation, dehydrogenation temperature, and binding energy of hydrogen fall in the recommended range of a suitable hydrogen storage medium applicable for fuel cell applications. Reproducibility and deterioration level of the composite samples have also been examined.",
+    "doi": "10.1021/am403662t",
+    "url": "https://openalex.org/W2328437951",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2328437951"
+  },
+  {
+    "title": "Sodium-ion batteries: present and future",
+    "authors": [
+      "Jang\u2010Yeon Hwang",
+      "Seung\u2010Taek Myung",
+      "Yang\u2010Kook Sun"
+    ],
+    "year": 2017,
+    "abstract": "Energy production and storage technologies have attracted a great deal of attention for day-to-day applications. In recent decades, advances in lithium-ion battery (LIB) technology have improved living conditions around the globe. LIBs are used in most mobile electronic devices as well as in zero-emission electronic vehicles. However, there are increasing concerns regarding load leveling of renewable energy sources and the smart grid as well as the sustainability of lithium sources due to their limited availability and consequent expected price increase. Therefore, whether LIBs alone can satisfy the rising demand for small- and/or mid-to-large-format energy storage applications remains unclear. To mitigate these issues, recent research has focused on alternative energy storage systems. Sodium-ion batteries (SIBs) are considered as the best candidate power sources because sodium is widely available and exhibits similar chemistry to that of LIBs; therefore, SIBs are promising next-generation alternatives. Recently, sodiated layer transition metal oxides, phosphates and organic compounds have been introduced as cathode materials for SIBs. Simultaneously, recent developments have been facilitated by the use of select carbonaceous materials, transition metal oxides (or sulfides), and intermetallic and organic compounds as anodes for SIBs. Apart from electrode materials, suitable electrolytes, additives, and binders are equally important for the development of practical SIBs. Despite developments in electrode materials and other components, there remain several challenges, including cell design and electrode balancing, in the application of sodium ion cells. In this article, we summarize and discuss current research on materials and propose future directions for SIBs. This will provide important insights into scientific and practical issues in the development of SIBs.",
+    "doi": "10.1039/c6cs00776g",
+    "url": "https://openalex.org/W2603442821",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2603442821"
+  },
+  {
+    "title": "Progresses and Perspectives of All\u2010Iron Aqueous Redox Flow Batteries",
+    "authors": [
+      "Shawn Belongia",
+      "Xiang Wang",
+      "Xin Zhang"
+    ],
+    "year": 2023,
+    "abstract": "Abstract Redox flow batteries (RFBs) are a promising option for long\u2010duration energy storage (LDES) due to their stability, scalability, and potential reversibility. However, solid\u2010state and non\u2010aqueous flow batteries have low safety and low conductivity, while aqueous systems using vanadium and zinc are expensive and have low power and energy densities, limiting their industrial application. An approach to lower capital cost and improve scalability is to utilize cheap Earth\u2010abundant metals such as iron (Fe). Nevertheless, all\u2010iron RFBs have many complications, involving voltage loss from ohmic resistance, side reactions such as hydrogen evolution, oxidation, and most significantly electrode plating, and dendrite growth. To address these issues, researchers have begun to examine the effects of various alterations to all\u2010iron RFBs, such as adding organic ligands to form Fe complexes and using a slurry electrode instead of common materials such as graphite or platinum rods. Overall, progress in improving aqueous all\u2010iron RFBs is at its infant stage, and new strategies must be introduced, such as the utilization of nanoparticles, which can limit dendrite growth while increasing storage capacity. This review provides an in\u2010depth overview of current research and offers perspectives on how to design the next generation of all\u2010iron aqueous RFBs.",
+    "doi": "10.1002/adfm.202302077",
+    "url": "https://openalex.org/W4379617687",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W4379617687"
+  },
+  {
+    "title": "Enhanced Hydrogen Adsorption on Hydrochloric Acid\u2013Activated Cu\u2013BDC Metal Organic Framework: Structural and Performance Analysis",
+    "authors": [
+      "K. Meena",
+      "H. Meena",
+      "Mamta Jha",
+      "S. K. Jain",
+      "Karishma Jain",
+      "Anju Lavania",
+      "Shalini Dixit",
+      "Balram Tripathi"
+    ],
+    "year": 2025,
+    "abstract": "This study investigates the activation, characterization, and hydrogen adsorption properties of pristine and hydrochloric acid-activated Cu-BDC metal-organic frameworks (MOFs). The activation process aimed to enhance the surface area and pore volume, thereby improving hydrogen storage capabilities. Structural and morphological analyses were conducted using various techniques. X-ray diffraction (XRD) revealed a highly crystalline, well-organized framework, with additional peaks in the activated sample indicating phase transitions induced by activation. Fourier-transform infrared (FT-IR) spectroscopy confirmed the presence of functional groups, including -COO and C-H vibrations of aromatic rings, signifying the retention of essential framework components. Scanning electron microscopy (SEM) showcased regular, cubic microcrystals with homogeneously distributed particles. Thermal stability was assessed via thermogravimetric analysis (TGA), demonstrating that the material is thermally robust. Hydrogen adsorption measurements were performed at 300 K, 126 K, and pressures of 8 and 10 bar. The pristine Cu-BDC MOF exhibited a hydrogen uptake of 0.88 wt% at 126 K and 10 bar, which improved to 1.12 wt% upon activation. The enhanced uptake in the activated sample is attributed to the increased surface area and pore volume, providing more adsorption sites for hydrogen molecules. Notably, low-temperature and high-pressure conditions were found to significantly enhance hydrogen storage performance. These findings highlight the potential of functionalized Cu-BDC MOFs as promising candidates for hydrogen storage applications, contributing to advancements in sustainable energy storage technologies. The study aligns with global efforts to meet the DOE targets for efficient hydrogen storage systems.",
+    "doi": "10.69626/eea.2025.0001",
+    "url": "https://www.semanticscholar.org/paper/7da1baa1e3a5a8a1e3576539649252e221607399",
+    "source": "semantic_scholar",
+    "external_id": "7da1baa1e3a5a8a1e3576539649252e221607399"
+  },
+  {
+    "title": "Advancing Transition Metal Oxide Photoelectrodes for Efficient Solar\u2010Driven Hydrogen Generation: Strategies and Insights",
+    "authors": [
+      "Abdul Ahad Mamun",
+      "Abir Chowdhury",
+      "Asif Billah",
+      "Jawadul Karim",
+      "Auronno Ovid Hussain",
+      "Faysal Rahman",
+      "M. Talukder"
+    ],
+    "year": 2025,
+    "abstract": "Photoelectrochemical (PEC) water splitting is a promising approach for green hydrogen (H2) generation, leveraging solar energy to produce a clean and sustainable fuel alternative. Transition metal oxides (TMOs) have emerged as potential photoelectrode materials due to their tunable optoelectronic properties, earth abundance, and chemical stability. However, their practical application remains limited by challenges such as narrow light absorption range, inefficient charge carrier dynamics, and sluggish water\u2010splitting kinetics. To overcome these limitations, various enhancement strategies have been explored. This review highlights three key approaches to develop high\u2010performance TMO\u2010based photoelectrodes suitable for industrial applications: (i) element doping, which tailors electronic structures to improve conductivity and charge separation, (ii) integration with graphene\u2010based materials, which facilitates charge transfer and enhances surface reaction kinetics, and (iii) surface plasmon resonance (SPR) and localized SPR (LSPR) effects, which broaden light absorption and generate hot charge carriers. Additionally, this review provides a comprehensive analysis of the fundamental performance parameters governing TMO\u2010based photoelectrodes and discusses future research directions to optimize their efficiency. Combining these strategies holds significant potential for developing scalable, high\u2010performance PEC systems for sustainable hydrogen production.",
+    "doi": "10.1002/aenm.202501766",
+    "url": "https://www.semanticscholar.org/paper/c5c8c191be85d07a9b6ce2f7d347cbfcbf372982",
+    "source": "semantic_scholar",
+    "external_id": "c5c8c191be85d07a9b6ce2f7d347cbfcbf372982"
+  },
+  {
+    "title": "Manipulating the d\u2010Band Center of Ir by Metal\u2010Support Interaction to Optimize the Adsorption for Self\u2010Powered Hydrazine Oxidation\u2010Assisted Hydrogen Generation",
+    "authors": [
+      "Junlin Huang",
+      "Minghao Jin",
+      "Hao Zhang",
+      "Wei Wang",
+      "Aojie Li",
+      "Yucan Zhu",
+      "Jing Zhang",
+      "Hong Yin",
+      "Wenyuan Xu",
+      "Minjie Zhou"
+    ],
+    "year": 2025,
+    "abstract": "The hydrazine oxidation\u2010assisted hydrogen generation system significantly expands the applicability of hydrogen production technology. However, the complex intermediate transformations involved in the hydrazine oxidation reaction (HzOR) and hydrogen evolution reaction (HER) desperately need the development of dual\u2010functional catalysts. Manipulating the d\u2010band center of metal catalysts has been identified as one of the most effective approaches to enhance catalytic activity. Herein, Ir nanoparticles (NPs) anchored in B, N\u2010codoped porous carbon (Ir@BNC) were developed and demonstrate excellent performances for both HER and HzOR in an alkaline medium, achieving 10\u2009mA\u2009cm\u22122 at \u221225 and 18\u2009mV, respectively. The overall hydrazine splitting (OHzS) electrolyzer reaches 200\u2009mA\u2009cm\u22122 with a cell voltage of just 0.68\u2009V. The direct liquid N2H4/H2O2 fuel cell (DHHPFC) assembly with Ir@BNC can achieve a maximum power density of 199.2\u2009mW\u2009cm\u22122 at room temperature. Furthermore, an H2 production system using an OHzS device powered by DHHPFC realizes hydrogen production at a stable rate (53.08\u2009mol\u2009h\u22121\u2009m\u22122). In\u2010situ Raman tests and theoretical calculations unravel the metal\u2010support interaction between Ir NPs and B, N\u2010codoped porous carbon, optimizing the electronic structure and regulating the d\u2010band center of Ir, reducing the adsorption energy of H* intermediates and N2H4 molecules, thus promoting the reaction processes of HER and HzOR.",
+    "doi": "10.1002/eem2.70159",
+    "url": "https://www.semanticscholar.org/paper/1f97fb0be5e9df9fc403d86f8c27ebec7e3860cd",
+    "source": "semantic_scholar",
+    "external_id": "1f97fb0be5e9df9fc403d86f8c27ebec7e3860cd"
+  },
+  {
+    "title": "Metal Hydrides for Sustainable Hydrogen Storage: A Review",
+    "authors": [
+      "E. Nemukula",
+      "C. Mtshali",
+      "F. Nemangwele"
+    ],
+    "year": 2025,
+    "abstract": "Storing hydrogen in metals has received much attention due to the advantages of this approach for safely storing. It is a promising method of storing hydrogen and eliminates the challenges associated with storing hydrogen gas at high pressure, which includes material durability, tank safety, and overall weight. Much work has been done for the past decade to bring this approach closer to wide\u2010scale application. However, much experimental research is needed to improve the volumetric and gravimetric capacity, hydrogen adsorption/desorption kinetics, material life cycle, and reaction thermodynamics of potential materials for hydrogen storage. Other important properties to consider are transient performance, the regeneration process of spent storage materials, effective adsorption temperature associated with activation energy, induced pore sizes in materials, increasing pore volume and surface area, and materials densification. In recent years, this solid\u2010state storage has progressed at conditions close to normal atmospheric pressure and temperature, with metal hydrides (MHs) emerging as a promising option. Their high storage density per unit volume, volume storage capabilities, and their ability to reverse the process while maintaining stability have qualified the MHs for low\u2010pressure storage and fulfilling the hydrogen storing requirements. However, understanding the principles of kinetics and thermodynamics is crucial for understanding the reactions of MHs as they absorb and release hydrogen. This review evaluates the current hydrogen storage methods, the different types of MHs, their thermodynamics and kinetics, as well as their applications and challenges. For the advancement of further research in this field of study, suggestions for future work and studies are also provided.",
+    "doi": "10.1155/er/6300225",
+    "url": "https://www.semanticscholar.org/paper/68e206d7e2464526dbc69991dbf3e96c64ff7330",
+    "source": "semantic_scholar",
+    "external_id": "68e206d7e2464526dbc69991dbf3e96c64ff7330"
+  },
+  {
+    "title": "Computational Fluid Dynamic Modeling and Parametric Optimization of Hydrogen Adsorption in Stationary Hydrogen Tanks",
+    "authors": [
+      "A. Ousegui",
+      "B. Marcos"
+    ],
+    "year": 2025,
+    "abstract": "This study investigates hydrogen storage enhancement through adsorption in porous materials by coupling the Dubinin\u2013Astakhov (D-A) adsorption model with H2 conservation equations (mass, momentum, and energy). The resulting system of partial differential equations (PDEs) was solved numerically using the finite element method (FEM). Experimental work using activated carbon as an adsorbent was carried out to validate the model. The comparison showed good agreement in terms of temperature distribution, average pressure of the system, and the amount of adsorbed hydrogen (H2). Further simulations with different adsorbents indicated that compact metal\u2013organic framework 5 (MOF-5) is the most effective material in terms of H2 adsorption. Additionally, the pair (273 K, 800 s) remains the optimal combination of injection temperature and time. The findings underscore the prospective advantages of optimized MOF-5-based systems for enhanced hydrogen storage. These systems offer increased capacity and safety compared to traditional adsorbents. Subsequent research should investigate multi-objective optimization of material properties and system geometry, along with evaluating dynamic cycling performance in practical operating conditions. Additionally, experimental validation on MOF-5-based storage prototypes would further reinforce the model\u2019s predictive capabilities for industrial applications.",
+    "doi": "10.3390/hydrogen6040095",
+    "url": "https://www.semanticscholar.org/paper/46c43fbf242da0f54f4b7aca252df76446a54d31",
+    "source": "semantic_scholar",
+    "external_id": "46c43fbf242da0f54f4b7aca252df76446a54d31"
+  },
+  {
+    "title": "High\u2010Performance Lithium\u2013Sulfur Batteries With MXene\u2010Transition Metal Oxide Decorated Electrospun Interlayers for Optimized Polysulfide Conversion",
+    "authors": [
+      "Busra Cetiner",
+      "Ali Ansari Hamedani",
+      "Bilal Iskandarani",
+      "Shungui Deng",
+      "Jakob Heier",
+      "B. Yarar Kaplan",
+      "S. Alkan G\u00fcrsel",
+      "Alp Y\u00fcr\u00fcm"
+    ],
+    "year": 2025,
+    "abstract": "Lithium\u2010sulfur (Li\u2013S) batteries offer exceptional theoretical energy density, yet their practical realization remains limited by polysulfide shuttling and sluggish redox kinetics. Conventional interlayers typically mitigate only one of these bottlenecks, either improving conductivity or providing polysulfide adsorption, which proves insufficient under realistic conditions. Here, we introduce a multifunctional interlayer composed of electrospun polyvinylidene fluoride (PVDF) nanofibers embedded with MXene/transition metal oxide (TMO) hybrids and compacted via hot pressing. This design uniquely integrates MXene\u2019s conductivity, TMO\u2019s strong polar\u2013polar adsorption and catalytic activity, and PVDF\u2019s structural flexibility, producing a single architecture capable of suppressing shuttle effects, accelerating LiPS conversion, and stabilizing the electrode\u2010interlayer interface. Electrochemical evaluation demonstrates high discharge capacities of 1032\u2009mAh\u2009g\u22121 for PVDF\u2010calcined MXene (P\u2010CM) interlayer and 931\u2009mAh g\u22121 for PVDF\u2010MXene/SnO2 (P\u2010MS) interlayer at medium sulfur loading (2\u20133\u2009mg\u2009cm\u22122), with outstanding long\u2010term retention of 800\u2009mAh g\u22121 after 100 cycles and ultralow fading rates of 0.23% and 0.18% per cycle. Strikingly, at high sulfur loadings (5\u20136\u2009mg\u2009cm\u22122), both interlayers sustained similarly low decay rates (0.18% per cycle), highlighting their robustness under practical conditions. Electrochemical impedance spectroscopy revealed a >\u200994% reduction in polysulfide shuttle resistance, directly confirming the efficient immobilization and conversion of soluble lithium polysulfides (LiPSs). Moreover, Li\u2009+ diffusion coefficients were boosted to 9.89\u2009\u00d7\u200910\u22128 mg cm2 s\u22121, nearly two orders of magnitude higher than previously reported values, while postmortem X\u2010ray photoelectron spectrometer (XPS) identified Sn\u2013S, Sn\u2013O, and S\u2013Ti\u2013C bonding as evidence of strong chemical interactions. This work presents the first electrospun PVDF\u2010based interlayer integrating MXene/TMO hybrids, establishing a multifunctional strategy that concurrently resolves shuttling and redox kinetics limitations. The ability to maintain high stability at practical sulfur loadings, coupled with scalable electrospinning and hot\u2010pressing fabrication, underscores its potential for enabling next\u2010generation Li\u2013S batteries.",
+    "doi": "10.1155/er/8862016",
+    "url": "https://www.semanticscholar.org/paper/ebab55c6473ca91265ecd5b0821f5cf1000acfd6",
+    "source": "semantic_scholar",
+    "external_id": "ebab55c6473ca91265ecd5b0821f5cf1000acfd6"
+  },
+  {
+    "title": "Synergistic integration of nickel, porous silicon, and thermally reduced graphene oxide for solid\u2010state hydrogen energy storage",
+    "authors": [
+      "Rama Chandra Muduli",
+      "Neeraj Kumar Nishad",
+      "Dinesh Dashbabu",
+      "Anil Kumar Emadabathuni",
+      "Paresh Kale"
+    ],
+    "year": 2024,
+    "abstract": "Solid\u2010state hydrogen storage using metal hydrides offers the potential for high energy storage capacities. However, the requirement for high\u2010temperature operations (above 400\u00b0C) and challenges with heat exchange are significant drawbacks. From this perspective, adsorption on porous materials presents a viable solution to these challenges. Carbon nanostructures, such as graphene and graphene oxide (GO) derivatives, are well\u2010suited for hydrogen storage because of their lightweight nature, low density, and large surface area. However, the primary obstacle for practical applications is the poor storage capacity of carbon nanostructures under ambient conditions. Utilizing a cost\u2010effective transition element such as nickel as a catalyst offers significant potential for storing hydrogen in atomic and molecular forms by invoking the spillover mechanism. Thermally reduced graphene oxide (TrGO) modifies the surface, providing abundant active sites that attract hydrogen effectively. Porous silicon (PS) enhances the surface properties of graphene sheets, attracting hydrogen to the surface. The current study assesses a synthesized TrGO, PS, and Ni composition to leverage their individual properties for hydrogen storage. Field\u2010emission scanning electron microscopy examines the sheet structure of TrGO (used as the host material) and the incorporation of PS and Ni on its surface. The calculated specific surface area of TrGO is ~450\u2009m2\u2009g\u22121. X\u2010ray diffraction is used to identify the various phases in the composition, while Raman spectroscopy measures the degree of disorder within the composition. The pressure\u2010composition isotherms reveal hydrogen storage capacities of ~6.53\u2009wt% for the TrGO\u2009+\u2009PS composition and ~2.43\u2009wt% for the TrGO\u2009+\u2009PS\u2009+\u2009Ni composition. Despite the decrease in weight percentage of TrGO\u2009+\u2009PS\u2009+\u2009Ni due to the higher Ni content, dissociation enhances the adsorption rate from 0.35 to 0.53\u2009wt%\u2009h\u22121.",
+    "doi": "10.1002/est2.70008",
+    "url": "https://www.semanticscholar.org/paper/0f0d334edbd07cc2659f17778763d3d594acfd6e",
+    "source": "semantic_scholar",
+    "external_id": "0f0d334edbd07cc2659f17778763d3d594acfd6e"
+  },
+  {
+    "title": "The Dark Energy Survey",
+    "authors": [
+      "The Dark Energy Survey Collaboration"
+    ],
+    "year": null,
+    "abstract": "We describe the Dark Energy Survey (DES), a proposed optical-near infrared survey of 5000 sq. deg of the South Galactic Cap to ~24th magnitude in SDSS griz, that would use a new 3 sq. deg CCD camera to be mounted on the Blanco 4-m telescope at Cerro Telolo Inter-American Observatory (CTIO). The survey data will allow us to measure the dark energy and dark matter densities and the dark energy equation of state through four independent methods: galaxy clusters, weak gravitational lensing tomography, galaxy angular clustering, and supernova distances. These methods are doubly complementary: they constrain different combinations of cosmological model parameters and are subject to different systematic errors. By deriving the four sets of measurements from the same data set with a common analysis framework, we will obtain important cross checks of the systematic errors and thereby make a substantial and robust advance in the precision of dark energy measurements.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/astro-ph/0510346v1",
+    "source": "arxiv",
+    "external_id": "astro-ph/0510346v1"
+  },
+  {
+    "title": "Interpretable machine learned predictions of adsorption energies at the metal--oxide interface",
+    "authors": [
+      "Marius Juul Nielsen",
+      "Luuk H. E. Kempen",
+      "Julie de Neergaard Ravn",
+      "Raffaele Cheula",
+      "Mie Andersen"
+    ],
+    "year": null,
+    "abstract": "The conversion of $\\mathrm{CO_2}$ to value-added compounds is an important part of the effort to store and reuse atmospheric $\\mathrm{CO_2}$ emissions. Here we focus on $\\mathrm{CO_2}$ hydrogenation over so-called inverse catalysts: transition metal oxide clusters supported on metal surfaces. The conventional approach for computational screening of such candidate catalyst materials involves a reliance on density functional theory (DFT) to obtain accurate adsorption energies at a significant computational cost. Here we present a machine learning (ML)-accelerated workflow for obtaining adsorption energies at the metal--oxide interface. We enumerate possible binding sites at the clusters and use DFT to sample a subset of these with diverse local adsorbate environments. The data set is used to explore interpretable and black-box ML models with the aim to reveal the electronic and structural factors controlling adsorption at metal--oxide interfaces. Furthermore, the explored ML models can be used for low-cost prediction of adsorption energies on structures outside of the original training data set. The workflow presented here, along with the insights into trends in adsorption energies at metal--oxide interfaces, will be useful for identifying active sites, predicting parameters required for microkinetic modeling of reactions on complex catalyst materials, and accelerating data-driven catalyst design.",
+    "doi": "10.1063/5.0282674",
+    "url": "http://arxiv.org/abs/2505.21428v1",
+    "source": "arxiv",
+    "external_id": "2505.21428v1"
+  },
+  {
+    "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+    "authors": [
+      "LSST Dark Energy Science Collaboration"
+    ],
+    "year": null,
+    "abstract": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five key probes of dark energy: weak lensing, large scale structure, galaxy clusters, Type Ia supernovae, and strong lensing. The computing working groups span cosmological simulations, galaxy catalogs, photon simulations and a systematic software and computational framework for LSST dark energy data analysis. The technical working groups make the connection between dark energy science and the LSST system. The working groups have close linkages, especially through the use of the photon simulations to study the impact of instrument design and survey strategy on analysis methodology and cosmological parameter estimation. The white paper describes several high priority tasks identified by each of the 16 working groups. Over the next three years these tasks will help prepare for LSST analysis, make synergistic connections with ongoing cosmological surveys and provide the dark energy community with state of the art analysis tools. Members of the community are invited to join the LSST DESC, according to the membership policies described in the white paper. Applications to sign up for associate membership may be made by submitting the Web form at http://www.slac.stanford.edu/exp/lsst/desc/signup.html with a short statement of the work they wish to pursue that is relevant to the LSST DESC.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1211.0310v1",
+    "source": "arxiv",
+    "external_id": "1211.0310v1"
+  },
+  {
+    "title": "Surface Energetics of Alkaline-Earth Metal Oxides: Trends in Stability and Adsorption of Small Molecules",
+    "authors": [
+      "Michal Bajdich",
+      "Jens K. N\u00f8rskov",
+      "Aleksandra Vojvodic"
+    ],
+    "year": null,
+    "abstract": "We present a systematic theoretical investigation of the surface properties, stability and reactivity, of rock-salt type alkaline-earth metal oxides including MgO, CaO, SrO, and BaO. The accuracy of commonly used exchange-correlation density functionals (LDA, PBE, RPBE, PBEsol, BEEF-vdW and hybrid HSE) and random-phase approximation (RPA) is evaluated and compared to existing experimental values. Calculated surface energies of the four most stable surface facets under vacuum conditions: the (100) surface, the metal and oxygen terminated octopolar (111), and the (110) surfaces exhibit a monotonic increase in stability from MgO to BaO. On the MgO(100) surface, adsorption of CO, NO, CH4 is characterized by physisorption while H2O chemisorbs, which is in agreement with experimental findings. We further use the on-top metal adsorption of CO and NO molecules to map out the surface energetics of each alkaline-earth metal oxide surface. The considered functionals all qualitatively predict similar adsorption energy trends. The ordering between the adsorption energies on different surface facets can be attributed to differences in the local geometrical surface structure and the electronic structure of the metal constituent of the alkaline-earth metal oxide. The striking observation that CO adsorption strength is weaker than NO adsorption on the (100) terraces as the period of the alkaline-earth metal in the oxide increases, is analyzed in detail in terms of charge redistribution within the \u03c3 and \u03c0 channels of adsorbates. Finally, we also present oxygen adsorption and oxygen vacancy formation energies in these oxide systems.",
+    "doi": "10.1103/PhysRevB.91.155401",
+    "url": "http://arxiv.org/abs/1412.6585v2",
+    "source": "arxiv",
+    "external_id": "1412.6585v2"
+  },
+  {
+    "title": "Hydrogen atom/molecule adsorption on 2D metallic porphyrin: A first-principles study",
+    "authors": [
+      "Raphael M. Tromer",
+      "Isaac M. Felix",
+      "Levi C. Felix",
+      "Leonardo D. Machado",
+      "Cristiano F. Woellner",
+      "Douglas S. Galvao"
+    ],
+    "year": null,
+    "abstract": "Hydrogen is a promising element for applications in new energy sources like fuel cells. One key issue for such applications is storing hydrogen. And, to improve storage capacity, understanding the interaction mechanism between hydrogen and possible storage materials is critical. This work uses DFT simulations to comprehensively investigate the adsorption mechanism of H/H$_2$ on the 2D metallic porphyrins with one transition metal in its center. Our results suggest that the mechanism for adsorption of H (H$_2$) is chemisorption (physisorption). The maximum adsorption energy for atomic hydrogen was $-3.7$ eV for 2D porphyrins embedded with vanadium or chromium atoms. Our results also revealed charge transfer of up $-0.43$ e to chemisorbed H atoms. In contrast, the maximum adsorption energy calculated for molecular hydrogen was $-122.5$ meV for 2D porphyrins embedded with scandium atoms. Furthermore, charge transfer was minimal for physisorption. Finally, we also determined that uniaxial strain has a minimal effect on the adsorption properties of 2D metallic porphyrins.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2301.11466v1",
+    "source": "arxiv",
+    "external_id": "2301.11466v1"
+  },
+  {
+    "title": "Crystallographic control of hydrogen ingress in bcc-Iron: Insights from ab initio simulations",
+    "authors": [
+      "Lukas Meier",
+      "Asif I. Bhatti",
+      "Leo Kestens",
+      "Stefaan Cottenier"
+    ],
+    "year": null,
+    "abstract": "Hydrogen uptake into body-centered cubic (bcc) iron as a root cause for subsequent hydrogen embrittlement, is initiated at the surface. In this paper, we quantify how readily H diffuses from the surface into the bulk. We consider a set of low-index, vicinal and general Fe surfaces and treat H-permeation as a two-step process. First, density-functional calculations determine the adsorption energy of an isolated H atom at every crystallographically distinct surface site. Second, for each adsorption site we map the minimum-energy pathway that carries the atom beneath the surface and into the lattice. Across all ten orientations studied, a clear trend emerges: sites that bind hydrogen most weakly (highest adsorption energy) are the starting point of the lowest-barrier diffusion channels into the metal interior. Thus, the least-favorable adsorption pockets act as gateways for efficient subsurface penetration. These insights provide a practical design rule: suppressing or minimizing exposure of such high-energy adsorption motifs - through appropriate surface texturing or orientation control - should make bcc-iron components less susceptible to hydrogen uptake and the associated embrittlement.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2505.20071v1",
+    "source": "arxiv",
+    "external_id": "2505.20071v1"
+  },
+  {
+    "title": "Operando Analysis of Adsorption-Limited Hydrogen Oxidation Reaction at Palladium Surfaces",
+    "authors": [
+      "Yukun Liu",
+      "Kunmo Koo",
+      "Zugang Mao",
+      "Xianbiao Fu",
+      "Xiaobing Hu",
+      "Vinayak P. Dravid"
+    ],
+    "year": null,
+    "abstract": "Palladium (Pd) catalysts have been extensively studied for the direct synthesis of H2O through the hydrogen oxidation reaction at ambient conditions. This heterogeneous catalytic reaction not only holds considerable practical significance but also serves as a classical model for investigating fundamental mechanisms, including adsorption and reactions between adsorbates. Nonetheless, the governing mechanisms and kinetics of its intermediate reaction stages under varying gas conditions remains elusive. This is attributed to the intricate interplay between adsorption, atomic diffusion, and concurrent phase transformation of catalyst. Herein, the Pd-catalyzed, water-forming hydrogen oxidation is studied, in situ, to investigate intermediate reaction stages via fluid cell transmission electron microscopy. The dynamic behaviors of water generation, associated with reversible palladium hydride formation, are captured in real time with a nanoscale spatial resolution. Our findings suggest that the hydrogen oxidation rate catalyzed by Pd is significantly affected by the sequence in which gases are introduced. Through direct evidence of electron diffraction and density functional theory calculation, we demonstrate that the hydrogen oxidation rate is limited by adsorption processes of gas precursors. These nanoscale insights help identify the optimal reaction conditions for Pd-catalyzed hydrogen oxidation, which has substantial implications for water production technologies. The developed understanding also advocates a broader exploration of analogous mechanisms in other metal-catalyzed reactions.",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2404.14348v1",
+    "source": "arxiv",
+    "external_id": "2404.14348v1"
+  },
+  {
+    "title": "The atomic simulation environment\u2014a Python library for working with atoms",
+    "authors": [
+      "Ask Hjorth Larsen",
+      "Jens J\u00f8rgen Mortensen",
+      "Jakob Blomqvist",
+      "Ivano E. Castelli",
+      "Rune Christensen",
+      "Marcin Du\u0142ak",
+      "Jesper Friis",
+      "Michael N. Groves",
+      "Bj\u00f8rk Hammer",
+      "Cory Hargus",
+      "Eric Hermes",
+      "Paul C. Jennings",
+      "P. Jensen",
+      "James R. Kermode",
+      "John R. Kitchin",
+      "Esben L. Kolsbjerg",
+      "Joseph Kubal",
+      "Kristen Kaasbjerg",
+      "Steen Lysgaard",
+      "J\u00f3n Bergmann Maronsson",
+      "Tristan Maxson",
+      "Thomas Olsen",
+      "Lars Pastewka",
+      "Andrew A. Peterson",
+      "C. Rostgaard",
+      "Jakob Schi\u00f8tz",
+      "Ole Sch\u00fctt",
+      "Mikkel Strange",
+      "Kristian S. Thygesen",
+      "Tejs Vegge",
+      "Lasse B. Vilhelmsen",
+      "Michael Walter",
+      "Zhenhua Zeng",
+      "Karsten W. Jacobsen"
+    ],
+    "year": 2017,
+    "abstract": "The atomic simulation environment (ASE) is a software package written in the Python programming language with the aim of setting up, steering, and analyzing atomistic simulations. In ASE, tasks are fully scripted in Python. The powerful syntax of Python combined with the NumPy array library make it possible to perform very complex simulation tasks. For example, a sequence of calculations may be performed with the use of a simple 'for-loop' construction. Calculations of energy, forces, stresses and other quantities are performed through interfaces to many external electronic structure codes or force fields using a uniform interface. On top of this calculator interface, ASE provides modules for performing many standard simulation tasks such as structure optimization, molecular dynamics, handling of constraints and performing nudged elastic band calculations.",
+    "doi": "10.1088/1361-648x/aa680e",
+    "url": "https://openalex.org/W2601081289",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2601081289"
+  },
+  {
+    "title": "The ReaxFF reactive force-field: development, applications and future directions",
+    "authors": [
+      "Thomas P. Senftle",
+      "Sungwook Hong",
+      "Md Mahbubul Islam",
+      "Sudhir B. Kylasa",
+      "Yuanxia Zheng",
+      "Yun Kyung Shin",
+      "Chad E. Junkermeier",
+      "Roman Engel\u2010Herbert",
+      "Michael J. Janik",
+      "Hasan Metin Aktulga",
+      "Toon Verstraelen",
+      "Ananth Grama",
+      "Adri C. T. van Duin"
+    ],
+    "year": 2016,
+    "abstract": "Abstract The reactive force-field (ReaxFF) interatomic potential is a powerful computational tool for exploring, developing and optimizing material properties. Methods based on the principles of quantum mechanics (QM), while offering valuable theoretical guidance at the electronic level, are often too computationally intense for simulations that consider the full dynamic evolution of a system. Alternatively, empirical interatomic potentials that are based on classical principles require significantly fewer computational resources, which enables simulations to better describe dynamic processes over longer timeframes and on larger scales. Such methods, however, typically require a predefined connectivity between atoms, precluding simulations that involve reactive events. The ReaxFF method was developed to help bridge this gap. Approaching the gap from the classical side, ReaxFF casts the empirical interatomic potential within a bond-order formalism, thus implicitly describing chemical bonding without expensive QM calculations. This article provides an overview of the development, application, and future directions of the ReaxFF method.",
+    "doi": "10.1038/npjcompumats.2015.11",
+    "url": "https://openalex.org/W2333787883",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2333787883"
+  },
+  {
+    "title": "Conjugated organic framework with three-dimensionally ordered stable structure and delocalized \u03c0 clouds",
+    "authors": [
+      "Jia Guo",
+      "Yanhong Xu",
+      "Shangbin Jin",
+      "Long Chen",
+      "Toshihiko Kaji",
+      "Yoshihito Honsho",
+      "Matthew A. Addicoat",
+      "Jangbae Kim",
+      "Akinori Saeki",
+      "Hyot Cherl Ihee",
+      "Shu Seki",
+      "Stephan Irle",
+      "Masahiro Hiramoto",
+      "Jia Gao",
+      "Donglin Jiang"
+    ],
+    "year": 2013,
+    "abstract": "Covalent organic frameworks are a class of crystalline organic porous materials that can utilize \u03c0-\u03c0-stacking interactions as a driving force for the crystallization of polygonal sheets to form layered frameworks and ordered pores. However, typical examples are chemically unstable and lack intrasheet \u03c0-conjugation, thereby significantly limiting their applications. Here we report a chemically stable, electronically conjugated organic framework with topologically designed wire frameworks and open nanochannels, in which the \u03c0 conjugation-spans the two-dimensional sheets. Our framework permits inborn periodic ordering of conjugated chains in all three dimensions and exhibits a striking combination of properties: chemical stability, extended \u03c0-delocalization, ability to host guest molecules and hole mobility. We show that the \u03c0-conjugated organic framework is useful for high on-off ratio photoswitches and photovoltaic cells. Therefore, this strategy may constitute a step towards realizing ordered semiconducting porous materials for innovations based on two-dimensionally extended \u03c0 systems.",
+    "doi": "10.1038/ncomms3736",
+    "url": "https://openalex.org/W2122358282",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2122358282"
+  },
+  {
+    "title": "Covalent organic frameworks based on Schiff-base chemistry: synthesis, properties and potential applications",
+    "authors": [
+      "Jos\u00e9 L. Segura",
+      "Mar\u00eda J. Manche\u00f1o",
+      "F\u00e9lix Zamora"
+    ],
+    "year": 2016,
+    "abstract": "Covalent organic-frameworks (COFs) are an emerging class of porous and ordered materials formed by condensation reactions of organic molecules. Recently, the Schiff-base chemistry or dynamic imine-chemistry has been widely explored for the synthesis of COFs. The main reason for this new tendency is based on their high chemical stability, porosity and crystallinity in comparison to previously reported COFs. This critical review article summarizes the current state-of-the-art on the design principles and synthetic strategies toward COFs based on Schiff-base chemistry, collects and rationalizes their physicochemical properties, as well as aims to provide perspectives of potential applications which are at the forefront of research in materials science.",
+    "doi": "10.1039/c5cs00878f",
+    "url": "https://openalex.org/W2463801883",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2463801883"
+  },
+  {
+    "title": "Metal\u2013organic and covalent organic frameworks as single-site catalysts",
+    "authors": [
+      "Sven M. J. Rogge",
+      "Anastasiya Bavykina",
+      "Julianna Hajek",
+      "Hermenegildo Garc\u0131\u0301a",
+      "Alma I. Olivos Suarez",
+      "Antonio Sep\u00falveda\u2010Escribano",
+      "Alexandr\u00e9 Vimont",
+      "Guillaume Clet",
+      "Philippe Bazin",
+      "Freek Kapteijn",
+      "Marco Daturi",
+      "Enrique V. Ramos\u2013Fern\u00e1ndez",
+      "Francesc X. Llabr\u00e9s i Xamena",
+      "V\u00e9ronique Van Speybroeck",
+      "Jorge Gasc\u00f3n"
+    ],
+    "year": 2017,
+    "abstract": "Heterogeneous single-site catalysts consist of isolated, well-defined, active sites that are spatially separated in a given solid and, ideally, structurally identical. In this review, the potential of metal-organic frameworks (MOFs) and covalent organic frameworks (COFs) as platforms for the development of heterogeneous single-site catalysts is reviewed thoroughly. In the first part of this article, synthetic strategies and progress in the implementation of such sites in these two classes of materials are discussed. Because these solids are excellent playgrounds to allow a better understanding of catalytic functions, we highlight the most important recent advances in the modelling and spectroscopic characterization of single-site catalysts based on these materials. Finally, we discuss the potential of MOFs as materials in which several single-site catalytic functions can be combined within one framework along with their potential as powerful enzyme-mimicking materials. The review is wrapped up with our personal vision on future research directions.",
+    "doi": "10.1039/c7cs00033b",
+    "url": "https://openalex.org/W2603410158",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2603410158"
+  },
+  {
+    "title": "Synthesis of Two-Dimensional Materials by Selective Extraction",
+    "authors": [
+      "Michael Naguib",
+      "Yury Gogotsi"
+    ],
+    "year": 2014,
+    "abstract": "CONSPECTUS: Two-dimensional (2D) materials have attracted much attention in the past decade. They offer high specific surface area, as well as electronic structure and properties that differ from their bulk counterparts due to the low dimensionality. Graphene is the best known and the most studied 2D material, but metal oxides and hydroxides (including clays), dichalcogenides, boron nitride (BN), and other materials that are one or several atoms thick are receiving increasing attention. They may deliver a combination of properties that cannot be provided by other materials. The most common synthesis approach in general is by reacting different elements or compounds to form a new compound. However, this approach does not necessarily work well for low-dimensional structures, since it favors formation of energetically preferred 3D (bulk) solids. Many 2D materials are produced by exfoliation of van der Waals solids, such as graphite or MoS2, breaking large particles into 2D layers. However, these approaches are not universal; for example, 2D transition metal carbides cannot be produced by any of them. An alternative but less studied way of material synthesis is the selective extraction process, which is based on the difference in reactivity and stability between the different components (elements or structural units) of the original material. It can be achieved using thermal, chemical, or electrochemical processes. Many 2D materials have been synthesized using selective extraction, such as graphene from SiC, transition metal oxides (TMO) from layered 3D salts, and transition metal carbides or carbonitrides (MXenes) from MAX phases. Selective extraction synthesis is critically important when the bonds between the building blocks of the material are too strong (e.g., in carbides) to be broken mechanically in order to form nanostructures. Unlike extractive metallurgy, where the extracted metal is the goal of the process, selective extraction of one or more elements from the precursor materials releases 2D structures. In this Account, in addition to graphene and TMO, we focused on MXenes as an example for the use of selective extraction synthesis to produce novel 2D materials. About 10 new carbides and carbonitrides of transition metals have been produced by this method in the past 3 years. They offer an unusual combination of metallic conductivity and hydrophilicity and show very attractive electrochemical properties. We hope that this Account will encourage researchers to extend the use of selective extraction to other layered material systems that in turn will result in expanding the world of nanomaterials in general and 2D materials in particular, generating new materials that cannot be produced by other means.",
+    "doi": "10.1021/ar500346b",
+    "url": "https://openalex.org/W1963724586",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W1963724586"
+  },
+  {
+    "title": "Silica Surface Features and Their Role in the Adsorption of Biomolecules: Computational Modeling and Experiments",
+    "authors": [
+      "Albert Rimola",
+      "Dominique Costa",
+      "Mariona Sodupe",
+      "Jean\u2010Fran\u00e7ois Lambert",
+      "Piero Ugliengo"
+    ],
+    "year": 2013,
+    "abstract": "International audience",
+    "doi": "10.1021/cr3003054",
+    "url": "https://openalex.org/W1993092212",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W1993092212"
+  },
+  {
+    "title": "Adsorption and photocatalytic splitting of water on graphitic carbon nitride: a combined first principles and semiempirical study",
+    "authors": [
+      "Jonas Wirth",
+      "Rainer Neumann",
+      "Markus Antonietti",
+      "Peter Saalfrank"
+    ],
+    "year": 2014,
+    "abstract": "Graphitic carbon nitride, g-C3N4, is a promising organic photo-catalyst for a variety of redox reactions. In order to improve its efficiency in a systematic manner, however, a fundamental understanding of the microscopic interaction between catalyst, reactants and products is crucial. Here we present a systematic study of water adsorption on g-C3N4 by means of density functional theory and the density functional based tight-binding method as a prerequisite for understanding photocatalytic water splitting. We then analyze this prototypical redox reaction on the basis of a thermodynamic model providing an estimate of the overpotential for both water oxidation and H(+) reduction. While the latter is found to occur readily upon irradiation with visible light, we derive a prohibitive overpotential of 1.56 eV for the water oxidation half reaction, comparing well with the experimental finding that in contrast to H2 production O2 evolution is only possible in the presence of oxidation cocatalysts.",
+    "doi": "10.1039/c4cp02021a",
+    "url": "https://openalex.org/W2079666951",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2079666951"
+  },
+  {
+    "title": "Methanol Synthesis from CO2: A Review of the Latest Developments in Heterogeneous Catalysis",
+    "authors": [
+      "R. Guil-L\u00f3pez",
+      "N. Mota",
+      "J. Llorente",
+      "Elena Mill\u00e1n Ord\u00f3\u00f1ez",
+      "B. Pawelec",
+      "J.L.G. Fierro",
+      "R.M. Navarro"
+    ],
+    "year": 2019,
+    "abstract": "Technological approaches which enable the effective utilization of CO<sub>2</sub> for manufacturing value-added chemicals and fuels can help to solve environmental problems derived from large CO<sub>2</sub> emissions associated with the use of fossil fuels. One of the most interesting products that can be synthesized from CO<sub>2</sub> is methanol, since it is an industrial commodity used in several chemical products and also an efficient transportation fuel. In this review, we highlight the recent advances in the development of heterogeneous catalysts and processes for the direct hydrogenation of CO<sub>2</sub> to methanol. The main efforts focused on the improvement of conventional Cu/ZnO based catalysts and the development of new catalytic systems targeting the specific needs for CO<sub>2</sub> to methanol reactions (unfavourable thermodynamics, production of high amount of water and high methanol selectivity under high or full CO<sub>2</sub> conversion). Major studies on the development of active and selective catalysts based on thermodynamics, mechanisms, nano-synthesis and catalyst design (active phase, promoters, supports, etc.) are highlighted in this review. Finally, a summary concerning future perspectives on the research and development of efficient heterogeneous catalysts for methanol synthesis from CO<sub>2</sub> will be presented.",
+    "doi": "10.3390/ma12233902",
+    "url": "https://openalex.org/W2990506565",
+    "source": "openalex",
+    "external_id": "https://openalex.org/W2990506565"
+  }
+]
