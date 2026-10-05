@@ -36,7 +36,7 @@ def classify_regime(e_ads_kj_mol: float) -> str:
     # Use absolute value for classification
     abs_e_ads = abs(e_ads_kj_mol)
 
-    # Thresholds based on tab3 data:
+    # Thresholds based on data/labels.csv:
     # Ba-TiO2: 17.4 kJ/mol -> weak physisorption
     # Ca/Sr-TiO2: ~19.6-19.8 kJ/mol -> moderate physisorption
     # Pristine: 47.8 kJ/mol -> moderate physisorption
@@ -151,7 +151,7 @@ class AdsorptionEnergies:
 
     def to_dict(self) -> dict[str, Any]:
         """
-        Convert to dictionary format matching metrics_tab3.csv.
+        Convert to dictionary format matching data/labels.csv columns.
 
         Returns
         -------

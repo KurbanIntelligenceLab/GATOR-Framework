@@ -213,7 +213,7 @@ class ThermodynamicProjections:
 
     def to_dict(self) -> dict[str, Any]:
         """
-        Convert to dictionary format matching metrics_tab4.csv.
+        Convert to dictionary format matching data/labels.csv columns.
 
         Returns
         -------

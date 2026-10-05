@@ -18,7 +18,7 @@ from .adsorption_metrics import (
     AdsorptionMetrics,
     calculate_adsorption_metrics,
     classify_adsorption_mode,
-    load_energies_from_tab3,
+    load_energies_from_csv,
     parse_xyz_file,
 )
 from .electronic_calculations import (
@@ -83,7 +83,7 @@ __all__ = [
     "classify_doe_window",
     "classify_regime",
     "load_config",
-    "load_energies_from_tab3",
+    "load_energies_from_csv",
     "load_records_from_csv",
     "parse_xyz_file",
     "run_gates",
