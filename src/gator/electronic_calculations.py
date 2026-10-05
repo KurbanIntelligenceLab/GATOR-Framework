@@ -103,7 +103,7 @@ class ElectronicProperties:
 
     def to_dict(self, system_name: str | None = None) -> dict[str, Any]:
         """
-        Convert properties to dictionary format matching metrics_tab1.csv.
+        Convert properties to dictionary format matching data/labels.csv columns.
 
         Parameters
         ----------

@@ -96,16 +96,16 @@ def classify_adsorption_mode(r_hh: float) -> str:
     return "dissociative"
 
 
-def load_energies_from_tab3(
+def load_energies_from_csv(
     csv_filepath: str, system_name: str
 ) -> tuple[float, float, float] | None:
     """
-    Load energy values from metrics_tab3.csv for a given system.
+    Load energy values from a descriptor CSV (e.g. data/labels.csv) for a given system.
 
     Parameters
     ----------
     csv_filepath : str
-        Path to metrics_tab3.csv file
+        Path to a CSV with System, E_NP_H2_eV, E_NP_eV, E_H2_eV columns (e.g. data/labels.csv)
     system_name : str
         Name of the system to look up
 
@@ -179,7 +179,7 @@ class AdsorptionMetrics:
         e_np_h2: float | None = None,
         e_np: float | None = None,
         e_h2: float | None = None,
-        tab3_filepath: str | None = None,
+        energies_csv_path: str | None = None,
     ) -> None:
         """
         Initialize with xyz file path and optional energies.
@@ -196,8 +196,8 @@ class AdsorptionMetrics:
             Total energy of NP without H₂ (in eV)
         e_h2 : float, optional
             Total energy of isolated H₂ (in eV)
-        tab3_filepath : str, optional
-            Path to metrics_tab3.csv to automatically load energies
+        energies_csv_path : str, optional
+            Path to a descriptor CSV (e.g. data/labels.csv) to automatically load energies
         """
         self.material_name = str(material_name)
         self.xyz_filepath = xyz_filepath
@@ -208,9 +208,9 @@ class AdsorptionMetrics:
         # Calculate all metrics
         self._calculate_metrics()
 
-        # Try to load energies from tab3 if not provided and tab3_filepath given
-        if e_np_h2 is None and e_np is None and e_h2 is None and tab3_filepath is not None:
-            energies = load_energies_from_tab3(tab3_filepath, self.material_name)
+        # Try to load energies from the CSV if not provided and energies_csv_path given
+        if e_np_h2 is None and e_np is None and e_h2 is None and energies_csv_path is not None:
+            energies = load_energies_from_csv(energies_csv_path, self.material_name)
             if energies is not None:
                 e_np_h2, e_np, e_h2 = energies
 
@@ -281,7 +281,7 @@ class AdsorptionMetrics:
 
     def to_dict(self) -> dict[str, Any]:
         """
-        Convert metrics to dictionary format matching metrics_tab2.csv.
+        Convert metrics to dictionary format matching data/labels.csv columns.
 
         Returns
         -------
@@ -351,7 +351,7 @@ def calculate_adsorption_metrics(
     e_np_h2: float | None = None,
     e_np: float | None = None,
     e_h2: float | None = None,
-    tab3_filepath: str | None = None,
+    energies_csv_path: str | None = None,
 ) -> dict[str, Any]:
     """
     Convenience function to calculate all adsorption metrics.
@@ -368,13 +368,13 @@ def calculate_adsorption_metrics(
         Total energy of NP without H₂ (in eV)
     e_h2 : float, optional
         Total energy of isolated H₂ (in eV)
-    tab3_filepath : str, optional
-        Path to metrics_tab3.csv to automatically load energies
+    energies_csv_path : str, optional
+        Path to a descriptor CSV (e.g. data/labels.csv) to automatically load energies
 
     Returns
     -------
     dict
         Dictionary with all calculated metrics
     """
-    metrics = AdsorptionMetrics(xyz_filepath, material_name, e_np_h2, e_np, e_h2, tab3_filepath)
+    metrics = AdsorptionMetrics(xyz_filepath, material_name, e_np_h2, e_np, e_h2, energies_csv_path)
     return metrics.to_dict()

@@ -47,12 +47,11 @@ src/gator/                     # Python package
 ├── cli.py                     # Unified CLI
 ├── electronic_calculations.py # HOMO/LUMO → conceptual DFT
 ├── adsorption_metrics.py      # XYZ → H-H bond + mode classification
-├── adsorption_energies.py     # E_ads + DOE window
+├── adsorption_energies.py     # E_ads + raw electronic window (0.2–0.6 eV)
 └── thermodynamic_projections.py # ΔH_corr, T₅₀, ΔG°
 
 data/                          # Computed descriptors (unchanged)
 ├── labels.csv                 # Merged 29-column descriptor table
-├── metrics_tab{1-4}.csv       # Individual descriptor tables
 └── geometries/                # XYZ structure files
 
 configs/
@@ -132,8 +131,8 @@ All physics thresholds, labels, and screening mappings are in `configs/screening
 |------|-------------|---------|
 | `range_multi` | N thresholds → N+1 bins | Mode: [0.80, 0.95] → molecular/activated/dissociative |
 | `threshold` | Single comparison | ΔG° < 0 → spontaneous/non-spontaneous |
-| `doe_window` | Inside/outside a range | \|E_ads\| in [15, 25] kJ/mol |
-| `entropy_corrected_doe` | DOE with endothermic handling | ΔH+25.96: Endothermic/Inside/Outside |
+| `doe_window` | Inside/outside a range | \|E_ads\| in [19.3, 57.9] kJ/mol (0.2–0.6 eV) |
+| `entropy_corrected_doe` | DOE with endothermic handling | ΔH_corr (+6) in [15, 25] kJ/mol: Endothermic/Inside/Outside |
 
 ### Key configurable parameters
 
@@ -141,8 +140,9 @@ All physics thresholds, labels, and screening mappings are in `configs/screening
 |-----------|-----------|---------|
 | Mode thresholds (Å) | `gates[adsorption_mode].thresholds` | [0.80, 0.95] |
 | Regime thresholds (kJ/mol) | `gates[regime].thresholds` | [18, 50, 100] |
-| DOE window (kJ/mol) | `gates[doe_*].doe_bounds` | [15, 25] |
-| Deliverability T window (K) | `gates[deliverability].thresholds` | [200, 400] |
+| Raw electronic E_ads window (kJ/mol) | `gates[doe_raw].doe_bounds` | [19.3, 57.9] (0.2–0.6 eV) |
+| Corrected adsorption enthalpy window (kJ/mol) | `gates[doe_corrected].doe_bounds` | [15, 25] |
+| Deliverability T₅₀ window (K) | `gates[deliverability].thresholds` | [250, 400] |
 | RAG top-k | `rag.top_k` | 5 |
 | RAG embedding model | `rag.embedding_model` | all-MiniLM-L6-v2 |
 
